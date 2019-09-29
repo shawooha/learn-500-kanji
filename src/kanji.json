@@ -1,0 +1,4503 @@
+{
+	"1": {
+		"symbol": "日",
+		"kunyomi": ["ひ/-び", "か"],
+		"onyomi": ["ニチ/ニ", "ジツ"],
+		"meaning": {
+			"en": "sun, day",
+			"ru": "солнце, день"
+		}
+	},
+	"2": {
+		"symbol": "月",
+		"kunyomi": ["つき"],
+		"onyomi": ["ゲツ", "ガツ"],
+		"meaning": {
+			"en": "moon, month",
+			"ru": "луна, месяц"
+		}
+	},
+	"3": {
+		"symbol": "木",
+		"kunyomi": ["き"],
+		"onyomi": ["モク (ボク)"],
+		"meaning": {
+			"en": "tree",
+			"ru": "дерево"
+		}
+	},
+	"4": {
+		"symbol": "山",
+		"kunyomi": ["やま"],
+		"onyomi": ["サン/-ザン"],
+		"meaning": {
+			"en": "mountain",
+			"ru": "гора"
+		}
+	},
+	"5": {
+		"symbol": "川",
+		"kunyomi": ["かわ/-がわ"],
+		"onyomi": ["セン"],
+		"meaning": {
+			"en": "river",
+			"ru": "река"
+		}
+	},
+	"6": {
+		"symbol": "田",
+		"kunyomi": ["た/だ"],
+		"onyomi": ["デン"],
+		"meaning": {
+			"en": "rice field",
+			"ru": "рисовое поле"
+		}
+	},
+	"7": {
+		"symbol": "人",
+		"kunyomi": ["ひと"],
+		"onyomi": ["ジン", "ニン"],
+		"meaning": {
+			"en": "person",
+			"ru": "человек"
+		}
+	},
+	"8": {
+		"symbol": "口",
+		"kunyomi": ["くち/-ぐち"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "mouth",
+			"ru": "рот"
+		}
+	},
+	"9": {
+		"symbol": "車",
+		"kunyomi": ["くるま"],
+		"onyomi": ["シャ"],
+		"meaning": {
+			"en": "vehicle, wheel",
+			"ru": "машина, повозка, колесо"
+		}
+	},
+	"10": {
+		"symbol": "門",
+		"kunyomi": ["かど"],
+		"onyomi": ["モン"],
+		"meaning": {
+			"en": "gate",
+			"ru": "ворота"
+		}
+	},
+	"11": {
+		"symbol": "火",
+		"kunyomi": ["ひ"],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "fire",
+			"ru": "огонь"
+		}
+	},
+	"12": {
+		"symbol": "水",
+		"kunyomi": ["みず"],
+		"onyomi": ["スイ"],
+		"meaning": {
+			"en": "water",
+			"ru": "вода"
+		}
+	},
+	"13": {
+		"symbol": "金",
+		"kunyomi": ["かね"],
+		"onyomi": ["キン"],
+		"meaning": {
+			"en": "gold, money",
+			"ru": "золото, деньги"
+		}
+	},
+	"14": {
+		"symbol": "土",
+		"kunyomi": ["つち"],
+		"onyomi": ["ド"],
+		"meaning": {
+			"en": "ground, earth",
+			"ru": "земля"
+		}
+	},
+	"15": {
+		"symbol": "子",
+		"kunyomi": ["こ"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "child",
+			"ru": "ребенок"
+		}
+	},
+	"16": {
+		"symbol": "女",
+		"kunyomi": ["おんな"],
+		"onyomi": ["ジョ"],
+		"meaning": {
+			"en": "woman, female",
+			"ru": "женщина, женский"
+		}
+	},
+	"17": {
+		"symbol": "学",
+		"kunyomi": ["まな-ぶ"],
+		"onyomi": ["ガク/カッ-"],
+		"meaning": {
+			"en": "study",
+			"ru": "учиться"
+		}
+	},
+	"18": {
+		"symbol": "生",
+		"kunyomi": ["い-きる", "う-まれる"],
+		"onyomi": ["セイ"],
+		"meaning": {
+			"en": "live, birth",
+			"ru": "жизнь, рождние"
+		}
+	},
+	"19": {
+		"symbol": "先",
+		"kunyomi": ["さき"],
+		"onyomi": ["セン"],
+		"meaning": {
+			"en": "ahead, previous",
+			"ru": "вперед, ранее"
+		}
+	},
+	"20": {
+		"symbol": "私",
+		"kunyomi": ["わたし", "わたくし"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "I/me, private",
+			"ru": "я, частный"
+		}
+	},
+	"21": {
+		"symbol": "一",
+		"kunyomi": ["ひと-つ", "ひと"],
+		"onyomi": ["イチ"],
+		"meaning": {
+			"en": "one",
+			"ru": "один"
+		}
+	},
+	"22": {
+		"symbol": "二",
+		"kunyomi": ["ふた-つ" ,"ふた"],
+		"onyomi": ["ニ"],
+		"meaning": {
+			"en": "two",
+			"ru": "два"
+		}
+	},
+	"23": {
+		"symbol": "三",
+		"kunyomi": ["みっ-つ"],
+		"onyomi": ["サン"],
+		"meaning": {
+			"en": "three",
+			"ru": "три"
+		}
+	},
+	"24": {
+		"symbol": "四",
+		"kunyomi": ["よっつ", "よん", "よ"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "four",
+			"ru": "четыре"
+		}
+	},
+	"25": {
+		"symbol": "五",
+		"kunyomi": ["いつ-つ", "いつ"],
+		"onyomi": ["ゴ"],
+		"meaning": {
+			"en": "five",
+			"ru": "пять"
+		}
+	},
+	"26": {
+		"symbol": "六",
+		"kunyomi": ["むっ-つ"],
+		"onyomi": ["ロク/ロッ-"],
+		"meaning": {
+			"en": "six",
+			"ru": "шесть"
+		}
+	},
+	"27": {
+		"symbol": "七",
+		"kunyomi": ["なな-つ", "なな"],
+		"onyomi": ["シチ"],
+		"meaning": {
+			"en": "seven",
+			"ru": "семь"
+		}
+	},
+	"28": {
+		"symbol": "八",
+		"kunyomi": ["やっ-つ"],
+		"onyomi": ["ハチ/ハッ-"],
+		"meaning": {
+			"en": "eight",
+			"ru": "восемь"
+		}
+	},
+	"29": {
+		"symbol": "九",
+		"kunyomi": ["ここの-つ", "ここの"],
+		"onyomi": ["ク", "キュウ"],
+		"meaning": {
+			"en": "nine",
+			"ru": "девять"
+		}
+	},
+	"30": {
+		"symbol": "十",
+		"kunyomi": ["とお"],
+		"onyomi": ["ジュウ/ジュッ-", "ジッ-"],
+		"meaning": {
+			"en": "ten",
+			"ru": "десять"
+		}
+	},
+	"31": {
+		"symbol": "百",
+		"kunyomi": [],
+		"onyomi": ["ヒャク/-ビャク/-ピャク"],
+		"meaning": {
+			"en": "hundred",
+			"ru": "сто"
+		}
+	},
+	"32": {
+		"symbol": "千",
+		"kunyomi": ["ち"],
+		"onyomi": ["セン/-ゼン"],
+		"meaning": {
+			"en": "thousand",
+			"ru": "тысяча"
+		}
+	},
+	"33": {
+		"symbol": "万",
+		"kunyomi": [],
+		"onyomi": ["マン"],
+		"meaning": {
+			"en": "ten thousand, all, every",
+			"ru": "десять тысяч, все, каждый"
+		}
+	},
+	"34": {
+		"symbol": "円",
+		"kunyomi": [],
+		"onyomi": ["エン"],
+		"meaning": {
+			"en": "circle, yen",
+			"ru": "иена, круг"
+		}
+	},
+	"35": {
+		"symbol": "年",
+		"kunyomi": ["とし"],
+		"onyomi": ["ネン"],
+		"meaning": {
+			"en": "year, age",
+			"ru": "год, эпоха"
+		}
+	},
+	"36": {
+		"symbol": "上",
+		"kunyomi": ["うえ","あ-がる","あ-げる","のぼ-る"],
+		"onyomi": ["ジョウ"],
+		"meaning": {
+			"en": "above, on, up",
+			"ru": "над, на, вверх, наверху, сверху"
+		}
+	},
+	"37": {
+		"symbol": "下",
+		"kunyomi": ["した","さ-がる","さ-げる","くだ-る"],
+		"onyomi": ["カ", "グ"],
+		"meaning": {
+			"en": "under, down",
+			"ru": "под, вниз, внизу"
+		}
+	},
+	"38": {
+		"symbol": "中",
+		"kunyomi": ["なか"],
+		"onyomi": ["チュウ", "-ジュウ"],
+		"meaning": {
+			"en": "middle, inside",
+			"ru": "середина, внутри"
+		}
+	},
+	"39": {
+		"symbol": "大",
+		"kunyomi": ["おお-きい"],
+		"onyomi": ["ダイ","タイ"],
+		"meaning": {
+			"en": "large, great",
+			"ru": "большой, великий"
+		}
+	},
+	"40": {
+		"symbol": "小",
+		"kunyomi": ["ちい-さい","こ","お"],
+		"onyomi": ["ショウ"],
+		"meaning": {
+			"en": "small",
+			"ru": "маленький"
+		}
+	},
+	"41": {
+		"symbol": "本",
+		"kunyomi": ["もと"],
+		"onyomi": ["ホン"],
+		"meaning": {
+			"en": "basis, book, this",
+			"ru": "основа, книга, этот"
+		}
+	},
+	"42": {
+		"symbol": "半",
+		"kunyomi": ["(なか-ば)"],
+		"onyomi": ["ハン"],
+		"meaning": {
+			"en": "half",
+			"ru": "половина"
+		}
+	},
+	"43": {
+		"symbol": "分",
+		"kunyomi": ["わ-かれる","わ-かる","わ-ける"],
+		"onyomi": ["ブン","フン/-プン"],
+		"meaning": {
+			"en": "division, part, minute",
+			"ru": "деление, часть, минута"
+		}
+	},
+	"44": {
+		"symbol": "力",
+		"kunyomi": ["ちから"],
+		"onyomi": ["リョク","リキ"],
+		"meaning": {
+			"en": "power, ability",
+			"ru": "сила, власть, возможность"
+		}
+	},
+	"45": {
+		"symbol": "何",
+		"kunyomi": ["なに","なん"],
+		"onyomi": [],
+		"meaning": {
+			"en": "what, how(many)",
+			"ru": "что, сколько"
+		}
+	},
+	"46": {
+		"symbol": "明",
+		"kunyomi": ["あか-るい","あ-ける"],
+		"onyomi": ["メイ"],
+		"meaning": {
+			"en": "bright, clear",
+			"ru": "ясный, светлый"
+		}
+	},
+	"47": {
+		"symbol": "休",
+		"kunyomi": ["やす-む"],
+		"onyomi": ["キュウ"],
+		"meaning": {
+			"en": "rest",
+			"ru": "отдых"
+		}
+	},
+	"48": {
+		"symbol": "体",
+		"kunyomi": ["からだ"],
+		"onyomi": ["タイ"],
+		"meaning": {
+			"en": "body",
+			"ru": "тело"
+		}
+	},
+	"49": {
+		"symbol": "好",
+		"kunyomi": ["す-きな","す-く"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "like, favorable",
+			"ru": "нравиться, любимый"
+		}
+	},
+	"50": {
+		"symbol": "男",
+		"kunyomi": ["おとこ"],
+		"onyomi": ["ダン","アン"],
+		"meaning": {
+			"en": "man, male",
+			"ru": "мужчина, мужской"
+		}
+	},
+	"51": {
+		"symbol": "林",
+		"kunyomi": ["はやし"],
+		"onyomi": ["リン"],
+		"meaning": {
+			"en": "wood, grove",
+			"ru": "роща"
+		}
+	},
+	"52": {
+		"symbol": "森",
+		"kunyomi": ["もり"],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "forest",
+			"ru": "лес"
+		}
+	},
+	"53": {
+		"symbol": "間",
+		"kunyomi": ["あいだ","ま"],
+		"onyomi": ["カン"],
+		"meaning": {
+			"en": "between, interval",
+			"ru": "между, промежуток"
+		}
+	},
+	"54": {
+		"symbol": "畑",
+		"kunyomi": ["はたけ","はた"],
+		"onyomi": [],
+		"meaning": {
+			"en": "cultivated field",
+			"ru": "возделанное поле"
+		}
+	},
+	"55": {
+		"symbol": "岩",
+		"kunyomi": ["いわ"],
+		"onyomi": ["ガン"],
+		"meaning": {
+			"en": "rock",
+			"ru": "скала"
+		}
+	},
+	"56": {
+		"symbol": "目",
+		"kunyomi": ["め"],
+		"onyomi": ["モク"],
+		"meaning": {
+			"en": "eye, item",
+			"ru": "глаз, предмет"
+		}
+	},
+	"57": {
+		"symbol": "耳",
+		"kunyomi": ["みみ"],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "ear",
+			"ru": "ухо"
+		}
+	},
+	"58": {
+		"symbol": "手",
+		"kunyomi": ["て"],
+		"onyomi": ["シュ"],
+		"meaning": {
+			"en": "hand, person",
+			"ru": "рука, персона"
+		}
+	},
+	"59": {
+		"symbol": "足",
+		"kunyomi": ["あし","た-りる","た-す"],
+		"onyomi": ["ソク"],
+		"meaning": {
+			"en": "leg, pair, suffice",
+			"ru": "нога, пара, достаточно"
+		}
+	},
+	"60": {
+		"symbol": "雨",
+		"kunyomi": ["あめ"],
+		"onyomi": ["ウ"],
+		"meaning": {
+			"en": "rain",
+			"ru": "дождь"
+		}
+	},
+	"61": {
+		"symbol": "竹",
+		"kunyomi": ["たけ"],
+		"onyomi": ["(チク)"],
+		"meaning": {
+			"en": "bamboo",
+			"ru": "бамбук"
+		}
+	},
+	"62": {
+		"symbol": "米",
+		"kunyomi": ["こめ"],
+		"onyomi": ["マイ","ベイ"],
+		"meaning": {
+			"en": "rice, America",
+			"ru": "рис, Америка"
+		}
+	},
+	"63": {
+		"symbol": "貝",
+		"kunyomi": ["かい"],
+		"onyomi": [],
+		"meaning": {
+			"en": "shellfish",
+			"ru": "моллюск, устрица"
+		}
+	},
+	"64": {
+		"symbol": "石",
+		"kunyomi": ["いし"],
+		"onyomi": ["セキ"],
+		"meaning": {
+			"en": "stone",
+			"ru": "камень"
+		}
+	},
+	"65": {
+		"symbol": "糸",
+		"kunyomi": ["いと"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "thread",
+			"ru": "нить"
+		}
+	},
+	"66": {
+		"symbol": "花",
+		"kunyomi": ["はな"],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "flower",
+			"ru": "цветок"
+		}
+	},
+	"67": {
+		"symbol": "茶",
+		"kunyomi": [],
+		"onyomi": ["チャ","サ"],
+		"meaning": {
+			"en": "tea",
+			"ru": "чай"
+		}
+	},
+	"68": {
+		"symbol": "肉",
+		"kunyomi": [],
+		"onyomi": ["ニク"],
+		"meaning": {
+			"en": "flesh, meat",
+			"ru": "плоть, мясо"
+		}
+	},
+	"69": {
+		"symbol": "文",
+		"kunyomi": [],
+		"onyomi": ["ブン","モン"],
+		"meaning": {
+			"en": "letter, sentence",
+			"ru": "письмо, предложение"
+		}
+	},
+	"70": {
+		"symbol": "字",
+		"kunyomi": [],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "letter, character",
+			"ru": "буква, символ"
+		}
+	},
+	"71": {
+		"symbol": "物",
+		"kunyomi": ["もの"],
+		"onyomi": ["ブツ","モツ"],
+		"meaning": {
+			"en": "thing",
+			"ru": "вещь"
+		}
+	},
+	"72": {
+		"symbol": "牛",
+		"kunyomi": ["うし"],
+		"onyomi": ["ギュウ"],
+		"meaning": {
+			"en": "cattle, cow",
+			"ru": "скот, корова"
+		}
+	},
+	"73": {
+		"symbol": "馬",
+		"kunyomi": ["うま"],
+		"onyomi": ["バ"],
+		"meaning": {
+			"en": "horse",
+			"ru": "лошадь"
+		}
+	},
+	"74": {
+		"symbol": "鳥",
+		"kunyomi": ["とり"],
+		"onyomi": ["チョウ"],
+		"meaning": {
+			"en": "bird",
+			"ru": "птица"
+		}
+	},
+	"75": {
+		"symbol": "魚",
+		"kunyomi": ["さかな"],
+		"onyomi": ["ギョ"],
+		"meaning": {
+			"en": "fish",
+			"ru": "рыба"
+		}
+	},
+	"76": {
+		"symbol": "新",
+		"kunyomi": ["あたら-しい"],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "new",
+			"ru": "новый"
+		}
+	},
+	"77": {
+		"symbol": "古",
+		"kunyomi": ["ふる-い"],
+		"onyomi": ["コ"],
+		"meaning": {
+			"en": "old",
+			"ru": "старый (не о людях)"
+		}
+	},
+	"78": {
+		"symbol": "長",
+		"kunyomi": ["なが-い"],
+		"onyomi": ["チョウ"],
+		"meaning": {
+			"en": "long, eldest, chief",
+			"ru": "длинный, старший, шеф"
+		}
+	},
+	"79": {
+		"symbol": "短",
+		"kunyomi": ["みじか-い"],
+		"onyomi": ["タン"],
+		"meaning": {
+			"en": "short",
+			"ru": "короткий"
+		}
+	},
+	"80": {
+		"symbol": "高",
+		"kunyomi": ["たかい"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "high, expensive",
+			"ru": "высокий, дорогой"
+		}
+	},
+	"81": {
+		"symbol": "安",
+		"kunyomi": ["やす-い"],
+		"onyomi": ["アン"],
+		"meaning": {
+			"en": "peaceful, cheap",
+			"ru": "спокойный, дешевый"
+		}
+	},
+	"82": {
+		"symbol": "低",
+		"kunyomi": ["ひく-い"],
+		"onyomi": ["テイ"],
+		"meaning": {
+			"en": "low",
+			"ru": "низкий"
+		}
+	},
+	"83": {
+		"symbol": "暗",
+		"kunyomi": ["くら-い"],
+		"onyomi": ["アン"],
+		"meaning": {
+			"en": "dark",
+			"ru": "темный"
+		}
+	},
+	"84": {
+		"symbol": "多",
+		"kunyomi": ["おお-い"],
+		"onyomi": ["タ"],
+		"meaning": {
+			"en": "many, much",
+			"ru": "много"
+		}
+	},
+	"85": {
+		"symbol": "少",
+		"kunyomi": ["すく-ない","すこ-し"],
+		"onyomi": ["ショウ"],
+		"meaning": {
+			"en": "few, little",
+			"ru": "немного, несколько"
+		}
+	},
+	"86": {
+		"symbol": "行",
+		"kunyomi": ["い-く","おこな-う"],
+		"onyomi": ["コウ","ギョウ"],
+		"meaning": {
+			"en": "go, act, line",
+			"ru": "идти, действовать, ряд"
+		}
+	},
+	"87": {
+		"symbol": "来",
+		"kunyomi": ["く-る", "こ-ない", "き-ます"],
+		"onyomi": ["ライ"],
+		"meaning": {
+			"en": "come, next",
+			"ru": "приходить, следующий"
+		}
+	},
+	"88": {
+		"symbol": "帰",
+		"kunyomi": ["かえ-る","かえ-す"],
+		"onyomi": ["キ"],
+		"meaning": {
+			"en": "return, go (come) back",
+			"ru": "возвращаться, приходить обратно (домой)"
+		}
+	},
+	"89": {
+		"symbol": "食",
+		"kunyomi": ["たべる"],
+		"onyomi": ["ショク"],
+		"meaning": {
+			"en": "eat",
+			"ru": "есть"
+		}
+	},
+	"90": {
+		"symbol": "飲",
+		"kunyomi": ["の-む"],
+		"onyomi": ["イン"],
+		"meaning": {
+			"en": "drink",
+			"ru": "пить"
+		}
+	},
+	"91": {
+		"symbol": "見",
+		"kunyomi": ["み-る","み-せる","みえ-る"],
+		"onyomi": ["ケン"],
+		"meaning": {
+			"en": "see, look",
+			"ru": "смотреть, видеть"
+		}
+	},
+	"92": {
+		"symbol": "聞",
+		"kunyomi": ["き-く","き-こえる"],
+		"onyomi": ["ブン"],
+		"meaning": {
+			"en": "hear",
+			"ru": "слышать"
+		}
+	},
+	"93": {
+		"symbol": "読",
+		"kunyomi": ["よ-む"],
+		"onyomi": ["ドク"],
+		"meaning": {
+			"en": "read",
+			"ru": "читать"
+		}
+	},
+	"94": {
+		"symbol": "書",
+		"kunyomi": ["か-く"],
+		"onyomi": ["ショ"],
+		"meaning": {
+			"en": "write, book",
+			"ru": "писать, книга"
+		}
+	},
+	"95": {
+		"symbol": "話",
+		"kunyomi": ["はな-す","はなし"],
+		"onyomi": ["ワ"],
+		"meaning": {
+			"en": "speak, talk",
+			"ru": "разговаривать, говорить"
+		}
+	},
+	"96": {
+		"symbol": "買",
+		"kunyomi": ["か-う"],
+		"onyomi": [],
+		"meaning": {
+			"en": "buy",
+			"ru": "покупать"
+		}
+	},
+	"97": {
+		"symbol": "教",
+		"kunyomi": ["おし-える"],
+		"onyomi": ["キョウ"],
+		"meaning": {
+			"en": "teach, religion",
+			"ru": "учить, религия"
+		}
+	},
+	"98": {
+		"symbol": "朝",
+		"kunyomi": ["あさ"],
+		"onyomi": ["チョウ"],
+		"meaning": {
+			"en": "morning",
+			"ru": "утро"
+		}
+	},
+	"99": {
+		"symbol": "昼",
+		"kunyomi": ["ひる"],
+		"onyomi": ["チュウ"],
+		"meaning": {
+			"en": "noon, daytime",
+			"ru": "полдень, дневное время"
+		}
+	},
+	"100": {
+		"symbol": "夜",
+		"kunyomi": ["よる","よ"],
+		"onyomi": ["ヤ"],
+		"meaning": {
+			"en": "night",
+			"ru": "ночь"
+		}
+	},
+	"101": {
+		"symbol": "晩",
+		"kunyomi": [],
+		"onyomi": ["バン"],
+		"meaning": {
+			"en": "night",
+			"ru": "вечер"
+		}
+	},
+	"102": {
+		"symbol": "夕",
+		"kunyomi": ["ゆう"],
+		"onyomi": [],
+		"meaning": {
+			"en": "evening",
+			"ru": "вечер"
+		}
+	},
+	"103": {
+		"symbol": "方",
+		"kunyomi": ["かた"],
+		"onyomi": ["ホウ"],
+		"meaning": {
+			"en": "direction, way, means",
+			"ru": "направление, сторона, путь, значение"
+		}
+	},
+	"104": {
+		"symbol": "午",
+		"kunyomi": [],
+		"onyomi": ["ゴ"],
+		"meaning": {
+			"en": "noon",
+			"ru": "полдень"
+		}
+	},
+	"105": {
+		"symbol": "前",
+		"kunyomi": ["まえ"],
+		"onyomi": ["ゼン"],
+		"meaning": {
+			"en": "before, front",
+			"ru": "перед, впереди"
+		}
+	},
+	"106": {
+		"symbol": "後",
+		"kunyomi": ["あと","うし-ろ"],
+		"onyomi": ["ゴ","コウ"],
+		"meaning": {
+			"en": "after, later, back, behind",
+			"ru": "после, позже, назад, позади"
+		}
+	},
+	"107": {
+		"symbol": "毎",
+		"kunyomi": [],
+		"onyomi": ["マイ"],
+		"meaning": {
+			"en": "every",
+			"ru": "каждый"
+		}
+	},
+	"108": {
+		"symbol": "週",
+		"kunyomi": [],
+		"onyomi": ["シュウ"],
+		"meaning": {
+			"en": "week",
+			"ru": "неделя"
+		}
+	},
+	"109": {
+		"symbol": "曜",
+		"kunyomi": [],
+		"onyomi": ["ヨウ"],
+		"meaning": {
+			"en": "day of week",
+			"ru": "день недели"
+		}
+	},
+	"110": {
+		"symbol": "作",
+		"kunyomi": ["つく-る"],
+		"onyomi": ["サク","サ"],
+		"meaning": {
+			"en": "make, work",
+			"ru": "делать, изготавливать, готовить"
+		}
+	},
+	"111": {
+		"symbol": "泳",
+		"kunyomi": ["およ-ぐ"],
+		"onyomi": ["エイ"],
+		"meaning": {
+			"en": "swim",
+			"ru": "плавать"
+		}
+	},
+	"112": {
+		"symbol": "油",
+		"kunyomi": ["あぶら"],
+		"onyomi": ["ユ"],
+		"meaning": {
+			"en": "oil",
+			"ru": "масло"
+		}
+	},
+	"113": {
+		"symbol": "海",
+		"kunyomi": ["うみ"],
+		"onyomi": ["カイ"],
+		"meaning": {
+			"en": "sea",
+			"ru": "море"
+		}
+	},
+	"114": {
+		"symbol": "酒",
+		"kunyomi": ["さけ","さか"],
+		"onyomi": ["シュ"],
+		"meaning": {
+			"en": "sake, liquor",
+			"ru": "саке, ликер, алкоголь"
+		}
+	},
+	"115": {
+		"symbol": "待",
+		"kunyomi": ["ま-つ"],
+		"onyomi": ["タイ"],
+		"meaning": {
+			"en": "wait",
+			"ru": "ждать"
+		}
+	},
+	"116": {
+		"symbol": "校",
+		"kunyomi": [],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "school",
+			"ru": "школа"
+		}
+	},
+	"117": {
+		"symbol": "時",
+		"kunyomi": ["とき"],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "time, hour",
+			"ru": "время, час"
+		}
+	},
+	"118": {
+		"symbol": "言",
+		"kunyomi": ["い-う","こと"],
+		"onyomi": ["ゲン","ゴン"],
+		"meaning": {
+			"en": "say",
+			"ru": "сказать"
+		}
+	},
+	"119": {
+		"symbol": "計",
+		"kunyomi": [],
+		"onyomi": ["ケイ"],
+		"meaning": {
+			"en": "plan, measure",
+			"ru": "планировать, измерять"
+		}
+	},
+	"120": {
+		"symbol": "語",
+		"kunyomi": [],
+		"onyomi": ["ゴ"],
+		"meaning": {
+			"en": "word, language",
+			"ru": "слово, язык"
+		}
+	},
+	"121": {
+		"symbol": "飯",
+		"kunyomi": ["めし"],
+		"onyomi": ["ハン"],
+		"meaning": {
+			"en": "cooked rice, meal",
+			"ru": "вареный рис, еда"
+		}
+	},
+	"122": {
+		"symbol": "宅",
+		"kunyomi": [],
+		"onyomi": ["タク"],
+		"meaning": {
+			"en": "house, home",
+			"ru": "дом, жилье"
+		}
+	},
+	"123": {
+		"symbol": "客",
+		"kunyomi": [],
+		"onyomi": ["キャク"],
+		"meaning": {
+			"en": "guest, customer",
+			"ru": "гость, посетитель, клиент"
+		}
+	},
+	"124": {
+		"symbol": "室",
+		"kunyomi": [],
+		"onyomi": ["シツ"],
+		"meaning": {
+			"en": "room",
+			"ru": "комната"
+		}
+	},
+	"125": {
+		"symbol": "家",
+		"kunyomi": ["いえ", "や"],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "house",
+			"ru": "дом"
+		}
+	},
+	"126": {
+		"symbol": "英",
+		"kunyomi": [],
+		"onyomi": ["エイ"],
+		"meaning": {
+			"en": "superb (for Englang)",
+			"ru": "Англия, превосходный"
+		}
+	},
+	"127": {
+		"symbol": "薬",
+		"kunyomi": ["くすり"],
+		"onyomi": ["ヤク/ヤッ-"],
+		"meaning": {
+			"en": "medicine",
+			"ru": "лекарство"
+		}
+	},
+	"128": {
+		"symbol": "会",
+		"kunyomi": ["あ-う"],
+		"onyomi": ["カイ"],
+		"meaning": {
+			"en": "meeting, association",
+			"ru": "встреча, собрание"
+		}
+	},
+	"129": {
+		"symbol": "今",
+		"kunyomi": ["いま"],
+		"onyomi": ["コン"],
+		"meaning": {
+			"en": "now, this",
+			"ru": "сейчас, этот"
+		}
+	},
+	"130": {
+		"symbol": "雪",
+		"kunyomi": ["ゆき"],
+		"onyomi": [],
+		"meaning": {
+			"en": "snow",
+			"ru": "снег"
+		}
+	},
+	"131": {
+		"symbol": "雲",
+		"kunyomi": ["くも"],
+		"onyomi": [],
+		"meaning": {
+			"en": "cloud",
+			"ru": "облако"
+		}
+	},
+	"132": {
+		"symbol": "電",
+		"kunyomi": [],
+		"onyomi": ["デン"],
+		"meaning": {
+			"en": "electricity",
+			"ru": "электричество"
+		}
+	},
+	"133": {
+		"symbol": "売",
+		"kunyomi": ["う-る"],
+		"onyomi": ["バイ"],
+		"meaning": {
+			"en": "sell",
+			"ru": "продавать"
+		}
+	},
+	"134": {
+		"symbol": "広",
+		"kunyomi": ["ひろ-い"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "wide, large",
+			"ru": "широкий, просторный"
+		}
+	},
+	"135": {
+		"symbol": "店",
+		"kunyomi": ["みせ"],
+		"onyomi": ["テン"],
+		"meaning": {
+			"en": "shop",
+			"ru": "магазин, лавка"
+		}
+	},
+	"136": {
+		"symbol": "度",
+		"kunyomi": [],
+		"onyomi": ["ド"],
+		"meaning": {
+			"en": "degree, times",
+			"ru": "градус, сколько(раз)"
+		}
+	},
+	"137": {
+		"symbol": "病",
+		"kunyomi": [],
+		"onyomi": ["ビョウ"],
+		"meaning": {
+			"en": "sick",
+			"ru": "болеть"
+		}
+	},
+	"138": {
+		"symbol": "疲",
+		"kunyomi": ["つか-れる"],
+		"onyomi": [],
+		"meaning": {
+			"en": "tired",
+			"ru": "уставать"
+		}
+	},
+	"139": {
+		"symbol": "痛",
+		"kunyomi": ["いた-い", "いた-む"],
+		"onyomi": ["ツウ"],
+		"meaning": {
+			"en": "pain",
+			"ru": "боль"
+		}
+	},
+	"140": {
+		"symbol": "屋",
+		"kunyomi": ["や"],
+		"onyomi": ["オク"],
+		"meaning": {
+			"en": "house, roof, shop",
+			"ru": "дом, крыша, магазин"
+		}
+	},
+	"141": {
+		"symbol": "国",
+		"kunyomi": ["くに"],
+		"onyomi": ["コク"],
+		"meaning": {
+			"en": "country, nation",
+			"ru": "страна, нация"
+		}
+	},
+	"142": {
+		"symbol": "回",
+		"kunyomi": ["まわ-る", "まわ-す"],
+		"onyomi": ["カイ"],
+		"meaning": {
+			"en": "turn around, time(s)",
+			"ru": "поворачивать, счетчик раз"
+		}
+	},
+	"143": {
+		"symbol": "困",
+		"kunyomi": ["こま-る"],
+		"onyomi": ["コン"],
+		"meaning": {
+			"en": "be in trouble",
+			"ru": "испытывать неприятность, находиться в затруднении"
+		}
+	},
+	"144": {
+		"symbol": "開",
+		"kunyomi": ["あ-く","ひら-く","あ-ける"],
+		"onyomi": ["カイ"],
+		"meaning": {
+			"en": "open",
+			"ru": "открывать, открыто"
+		}
+	},
+	"145": {
+		"symbol": "閉",
+		"kunyomi": ["し-まる","し-める","と-じる"],
+		"onyomi": ["ヘイ"],
+		"meaning": {
+			"en": "close",
+			"ru": "закрывать, закрыто"
+		}
+	},
+	"146": {
+		"symbol": "近",
+		"kunyomi": ["ちか-い"],
+		"onyomi": ["キン"],
+		"meaning": {
+			"en": "near, recent",
+			"ru": "близкий, недавний"
+		}
+	},
+	"147": {
+		"symbol": "遠",
+		"kunyomi": ["とお-い"],
+		"onyomi": ["エン"],
+		"meaning": {
+			"en": "far, distant",
+			"ru": "дальний, далёкий"
+		}
+	},
+	"148": {
+		"symbol": "速",
+		"kunyomi": ["はや-い"],
+		"onyomi": ["ソク"],
+		"meaning": {
+			"en": "fast, quick",
+			"ru": "быстрый"
+		}
+	},
+	"149": {
+		"symbol": "遅",
+		"kunyomi": ["おそ-い","おく-れる"],
+		"onyomi": ["チ"],
+		"meaning": {
+			"en": "slow, late",
+			"ru": "медленный, опаздывать"
+		}
+	},
+	"150": {
+		"symbol": "道",
+		"kunyomi": ["みち"],
+		"onyomi": ["ドウ"],
+		"meaning": {
+			"en": "way, street",
+			"ru": "дорога, улица"
+		}
+	},
+	"151": {
+		"symbol": "青",
+		"kunyomi": ["あお-い","あお"],
+		"onyomi": ["セイ"],
+		"meaning": {
+			"en": "blue",
+			"ru": "синий, голубой"
+		}
+	},
+	"152": {
+		"symbol": "晴",
+		"kunyomi": ["は-れる"],
+		"onyomi": ["セイ"],
+		"meaning": {
+			"en": "fair (weather), clear up",
+			"ru": "ясная (погода), проясняться"
+		}
+	},
+	"153": {
+		"symbol": "静",
+		"kunyomi": ["しず-かな"],
+		"onyomi": ["セイ"],
+		"meaning": {
+			"en": "quiet, still",
+			"ru": "тихий"
+		}
+	},
+	"154": {
+		"symbol": "寺",
+		"kunyomi": ["てら"],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "temple",
+			"ru": "храм"
+		}
+	},
+	"155": {
+		"symbol": "持",
+		"kunyomi": ["もつ"],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "hold",
+			"ru": "держать"
+		}
+	},
+	"156": {
+		"symbol": "荷",
+		"kunyomi": ["に"],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "load",
+			"ru": "груз"
+		}
+	},
+	"157": {
+		"symbol": "歌",
+		"kunyomi": ["うた","うた-う"],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "song",
+			"ru": "песня"
+		}
+	},
+	"158": {
+		"symbol": "友",
+		"kunyomi": ["とも"],
+		"onyomi": ["ユウ"],
+		"meaning": {
+			"en": "friend",
+			"ru": "друг"
+		}
+	},
+	"159": {
+		"symbol": "父",
+		"kunyomi": ["ちち"],
+		"onyomi": ["フ"],
+		"meaning": {
+			"en": "father",
+			"ru": "отец"
+		}
+	},
+	"160": {
+		"symbol": "母",
+		"kunyomi": ["はは"],
+		"onyomi": ["ボ"],
+		"meaning": {
+			"en": "mother",
+			"ru": "мать"
+		}
+	},
+	"161": {
+		"symbol": "兄",
+		"kunyomi": ["あに"],
+		"onyomi": ["ケイ","キョウ"],
+		"meaning": {
+			"en": "elder brother",
+			"ru": "старший брат"
+		}
+	},
+	"162": {
+		"symbol": "姉",
+		"kunyomi": ["あね"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "elder sister",
+			"ru": "старшая сестра"
+		}
+	},
+	"163": {
+		"symbol": "弟",
+		"kunyomi": ["おとうと"],
+		"onyomi": ["テイ","ダイ"],
+		"meaning": {
+			"en": "younger brother",
+			"ru": "младший брат"
+		}
+	},
+	"164": {
+		"symbol": "妹",
+		"kunyomi": ["いもうと"],
+		"onyomi": ["マイ"],
+		"meaning": {
+			"en": "younger sister",
+			"ru": "младшая сестра"
+		}
+	},
+	"165": {
+		"symbol": "夫",
+		"kunyomi": ["おっと"],
+		"onyomi": ["フ"],
+		"meaning": {
+			"en": "husband, man",
+			"ru": "муж"
+		}
+	},
+	"166": {
+		"symbol": "妻",
+		"kunyomi": ["つま"],
+		"onyomi": ["サイ"],
+		"meaning": {
+			"en": "wife",
+			"ru": "жена"
+		}
+	},
+	"167": {
+		"symbol": "彼",
+		"kunyomi": ["かれ","かの"],
+		"onyomi": [],
+		"meaning": {
+			"en": "he, that",
+			"ru": "он, этот"
+		}
+	},
+	"168": {
+		"symbol": "主",
+		"kunyomi": ["おも-な","ぬし"],
+		"onyomi": ["シュ"],
+		"meaning": {
+			"en": "main, master, owher",
+			"ru": "главный, хозяин, владелец"
+		}
+	},
+	"169": {
+		"symbol": "奥",
+		"kunyomi": ["おく"],
+		"onyomi": [],
+		"meaning": {
+			"en": "back, deep, inner",
+			"ru": "глубокий, внутренний"
+		}
+	},
+	"170": {
+		"symbol": "元",
+		"kunyomi": ["もと"],
+		"onyomi": ["ゲン","ガン"],
+		"meaning": {
+			"en": "origin, base, former",
+			"ru": "начало, основа, бывший"
+		}
+	},
+	"171": {
+		"symbol": "気",
+		"kunyomi": [],
+		"onyomi": ["キ"],
+		"meaning": {
+			"en": "spirit, mind, intention, air",
+			"ru": "дух, разум, намерение, воздух"
+		}
+	},
+	"172": {
+		"symbol": "有",
+		"kunyomi": [],
+		"onyomi": ["ユウ"],
+		"meaning": {
+			"en": "have, exist",
+			"ru": "иметь, существовать"
+		}
+	},
+	"173": {
+		"symbol": "名",
+		"kunyomi": ["な"],
+		"onyomi": ["メイ"],
+		"meaning": {
+			"en": "name, famous",
+			"ru": "имя, известный"
+		}
+	},
+	"174": {
+		"symbol": "親",
+		"kunyomi": ["おや","した-しい"],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "parent, intimate",
+			"ru": "родитель, близкий"
+		}
+	},
+	"175": {
+		"symbol": "切",
+		"kunyomi": ["き-る/きっ-"],
+		"onyomi": ["セツ"],
+		"meaning": {
+			"en": "cut, end",
+			"ru": "резать, конец"
+		}
+	},
+	"176": {
+		"symbol": "便",
+		"kunyomi": [],
+		"onyomi": ["ベン","ビン"],
+		"meaning": {
+			"en": "convenience, mail, transport",
+			"ru": "удобство, почта, транспорт"
+		}
+	},
+	"177": {
+		"symbol": "利",
+		"kunyomi": [],
+		"onyomi": ["リ"],
+		"meaning": {
+			"en": "profit, advantage",
+			"ru": "прибыль, выгода"
+		}
+	},
+	"178": {
+		"symbol": "不",
+		"kunyomi": [],
+		"onyomi": ["フ"],
+		"meaning": {
+			"en": "un-, not",
+			"ru": "не-"
+		}
+	},
+	"179": {
+		"symbol": "若",
+		"kunyomi": ["わか-い"],
+		"onyomi": [],
+		"meaning": {
+			"en": "young",
+			"ru": "молодой"
+		}
+	},
+	"180": {
+		"symbol": "早",
+		"kunyomi": ["はや-い"],
+		"onyomi": ["ソウ"],
+		"meaning": {
+			"en": "early",
+			"ru": "рано"
+		}
+	},
+	"181": {
+		"symbol": "忙",
+		"kunyomi": ["いそが-しい"],
+		"onyomi": ["ボウ"],
+		"meaning": {
+			"en": "busy",
+			"ru": "занятой"
+		}
+	},
+	"182": {
+		"symbol": "出",
+		"kunyomi": ["で-る","だ-す"],
+		"onyomi": ["シュツ/シュッ"],
+		"meaning": {
+			"en": "go out, put out",
+			"ru": "выходить, выкладывать, выдавать"
+		}
+	},
+	"183": {
+		"symbol": "入",
+		"kunyomi": ["はい-る","い-れる"],
+		"onyomi": ["ニュウ"],
+		"meaning": {
+			"en": "enter, put in",
+			"ru": "входить, вкладывать"
+		}
+	},
+	"184": {
+		"symbol": "乗",
+		"kunyomi": ["の-る","の-せる"],
+		"onyomi": ["ジョウ"],
+		"meaning": {
+			"en": "ride, get on",
+			"ru": "ехать (на чем-л)"
+		}
+	},
+	"185": {
+		"symbol": "降",
+		"kunyomi": ["お-りる","ふ-る","お-ろす"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "descend",
+			"ru": "спускаться, падать"
+		}
+	},
+	"186": {
+		"symbol": "着",
+		"kunyomi": ["つ-く","き-る"],
+		"onyomi": ["チャク"],
+		"meaning": {
+			"en": "arrive, wear",
+			"ru": "прибывать, носить"
+		}
+	},
+	"187": {
+		"symbol": "渡",
+		"kunyomi": ["わた-る","わた-す"],
+		"onyomi": ["ト"],
+		"meaning": {
+			"en": "cross",
+			"ru": "пересекать"
+		}
+	},
+	"188": {
+		"symbol": "通",
+		"kunyomi": ["とお-る","かよ-う","とお-す"],
+		"onyomi": ["ツウ"],
+		"meaning": {
+			"en": "pass, commute",
+			"ru": "проезжать, проходить"
+		}
+	},
+	"189": {
+		"symbol": "走",
+		"kunyomi": ["はし-る"],
+		"onyomi": ["ソウ"],
+		"meaning": {
+			"en": "run",
+			"ru": "бежать"
+		}
+	},
+	"190": {
+		"symbol": "歩",
+		"kunyomi": ["ある-く"],
+		"onyomi": ["ホ/-ポ"],
+		"meaning": {
+			"en": "walk",
+			"ru": "идти(пешком)"
+		}
+	},
+	"191": {
+		"symbol": "止",
+		"kunyomi": ["とま-る","とめ-る"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "stop",
+			"ru": "останавливаться"
+		}
+	},
+	"192": {
+		"symbol": "動",
+		"kunyomi": ["うご-く","うご-かす"],
+		"onyomi": ["ドウ"],
+		"meaning": {
+			"en": "move",
+			"ru": "двигаться"
+		}
+	},
+	"193": {
+		"symbol": "働",
+		"kunyomi": ["はたら-く"],
+		"onyomi": ["ドウ"],
+		"meaning": {
+			"en": "work",
+			"ru": "работать"
+		}
+	},
+	"194": {
+		"symbol": "右",
+		"kunyomi": ["みぎ"],
+		"onyomi": ["ウ","ユウ"],
+		"meaning": {
+			"en": "right",
+			"ru": "право"
+		}
+	},
+	"195": {
+		"symbol": "左",
+		"kunyomi": ["ひだり"],
+		"onyomi": ["サ"],
+		"meaning": {
+			"en": "left",
+			"ru": "лево"
+		}
+	},
+	"196": {
+		"symbol": "東",
+		"kunyomi": ["ひがし"],
+		"onyomi": ["トウ"],
+		"meaning": {
+			"en": "east",
+			"ru": "восток"
+		}
+	},
+	"197": {
+		"symbol": "西",
+		"kunyomi": ["にし"],
+		"onyomi": ["セイ","サイ"],
+		"meaning": {
+			"en": "west",
+			"ru": "запад"
+		}
+	},
+	"198": {
+		"symbol": "北",
+		"kunyomi": ["きた"],
+		"onyomi": ["ホク/ホッ-"],
+		"meaning": {
+			"en": "north",
+			"ru": "север"
+		}
+	},
+	"199": {
+		"symbol": "南",
+		"kunyomi": ["みなみ"],
+		"onyomi": ["ナン"],
+		"meaning": {
+			"en": "south",
+			"ru": "юг"
+		}
+	},
+	"200": {
+		"symbol": "外",
+		"kunyomi": ["そと"],
+		"onyomi": ["ガイ","ゲ"],
+		"meaning": {
+			"en": "outside, other, foreign",
+			"ru": "снаружи, другой, чужой"
+		}
+	},
+	"201": {
+		"symbol": "内",
+		"kunyomi": ["うち"],
+		"onyomi": ["ナイ"],
+		"meaning": {
+			"en": "inside",
+			"ru": "внутри"
+		}
+	},
+	"202": {
+		"symbol": "部",
+		"kunyomi": [],
+		"onyomi": ["ブ"],
+		"meaning": {
+			"en": "department, part, section. club",
+			"ru": "отделение, часть, секция, клуб"
+		}
+	},
+	"203": {
+		"symbol": "駅",
+		"kunyomi": [],
+		"onyomi": ["エキ"],
+		"meaning": {
+			"en": "station",
+			"ru": "станция"
+		}
+	},
+	"204": {
+		"symbol": "社",
+		"kunyomi": [],
+		"onyomi": ["シャ/-ジャ"],
+		"meaning": {
+			"en": "company, society, shrine",
+			"ru": "компания, общество, храм"
+		}
+	},
+	"205": {
+		"symbol": "院",
+		"kunyomi": [],
+		"onyomi": ["イン"],
+		"meaning": {
+			"en": "institution, house",
+			"ru": "учреждение, дом"
+		}
+	},
+	"206": {
+		"symbol": "地",
+		"kunyomi": [],
+		"onyomi": ["ジ","チ"],
+		"meaning": {
+			"en": "ground, place",
+			"ru": "земля, место"
+		}
+	},
+	"207": {
+		"symbol": "鉄",
+		"kunyomi": [],
+		"onyomi": ["テツ"],
+		"meaning": {
+			"en": "iron",
+			"ru": "железо"
+		}
+	},
+	"208": {
+		"symbol": "工",
+		"kunyomi": [],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "craft, construction",
+			"ru": "строительство"
+		}
+	},
+	"209": {
+		"symbol": "場",
+		"kunyomi": ["ば"],
+		"onyomi": ["ジョウ"],
+		"meaning": {
+			"en": "place, scene",
+			"ru": "место"
+		}
+	},
+	"210": {
+		"symbol": "図",
+		"kunyomi": [],
+		"onyomi": ["ズ","ト"],
+		"meaning": {
+			"en": "drawing, devise",
+			"ru": "рисунок, завещание"
+		}
+	},
+	"211": {
+		"symbol": "館",
+		"kunyomi": [],
+		"onyomi": ["カン"],
+		"meaning": {
+			"en": "(large) building, hall",
+			"ru": "(большое) здание"
+		}
+	},
+	"212": {
+		"symbol": "公",
+		"kunyomi": [],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "public, official",
+			"ru": "публичный, официальный"
+		}
+	},
+	"213": {
+		"symbol": "園",
+		"kunyomi": [],
+		"onyomi": ["エン"],
+		"meaning": {
+			"en": "garden",
+			"ru": "сад"
+		}
+	},
+	"214": {
+		"symbol": "住",
+		"kunyomi": ["す-む"],
+		"onyomi": ["ジュウ"],
+		"meaning": {
+			"en": "live",
+			"ru": "жить, проживать"
+		}
+	},
+	"215": {
+		"symbol": "所",
+		"kunyomi": ["ところ"],
+		"onyomi": ["ショ/-ジョ"],
+		"meaning": {
+			"en": "place",
+			"ru": "место"
+		}
+	},
+	"216": {
+		"symbol": "番",
+		"kunyomi": [],
+		"onyomi": ["バン"],
+		"meaning": {
+			"en": "order, watch",
+			"ru": "порядок, надзор"
+		}
+	},
+	"217": {
+		"symbol": "号",
+		"kunyomi": [],
+		"onyomi": ["ゴウ"],
+		"meaning": {
+			"en": "number, signal, sign",
+			"ru": "номер, сигнал, знак"
+		}
+	},
+	"218": {
+		"symbol": "市",
+		"kunyomi": ["いち"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "city, market",
+			"ru": "город, рынок"
+		}
+	},
+	"219": {
+		"symbol": "町",
+		"kunyomi": ["まち"],
+		"onyomi": ["チョウ"],
+		"meaning": {
+			"en": "town",
+			"ru": "город"
+		}
+	},
+	"220": {
+		"symbol": "村",
+		"kunyomi": ["むら"],
+		"onyomi": ["ソン"],
+		"meaning": {
+			"en": "village",
+			"ru": "деревня"
+		}
+	},
+	"221": {
+		"symbol": "区",
+		"kunyomi": [],
+		"onyomi": ["ク"],
+		"meaning": {
+			"en": "division, section, ward",
+			"ru": "отделение, секция, район"
+		}
+	},
+	"222": {
+		"symbol": "都",
+		"kunyomi": [],
+		"onyomi": ["ト"],
+		"meaning": {
+			"en": "capital, Tokyo",
+			"ru": "столица, Токио"
+		}
+	},
+	"223": {
+		"symbol": "府",
+		"kunyomi": [],
+		"onyomi": ["フ"],
+		"meaning": {
+			"en": "prefecture, agency",
+			"ru": "префектура, агентство"
+		}
+	},
+	"224": {
+		"symbol": "県",
+		"kunyomi": [],
+		"onyomi": ["ケン"],
+		"meaning": {
+			"en": "prefecture",
+			"ru": "префектура"
+		}
+	},
+	"225": {
+		"symbol": "島",
+		"kunyomi": ["しま"],
+		"onyomi": ["トウ"],
+		"meaning": {
+			"en": "island",
+			"ru": "остров"
+		}
+	},
+	"226": {
+		"symbol": "京",
+		"kunyomi": [],
+		"onyomi": ["キョウ"],
+		"meaning": {
+			"en": "capital",
+			"ru": "столица"
+		}
+	},
+	"227": {
+		"symbol": "様",
+		"kunyomi": ["さま"],
+		"onyomi": ["ヨウ"],
+		"meaning": {
+			"en": "appearance, formal title",
+			"ru": "появление, титул"
+		}
+	},
+	"228": {
+		"symbol": "練",
+		"kunyomi": [],
+		"onyomi": ["レン"],
+		"meaning": {
+			"en": "train",
+			"ru": "тренироваться"
+		}
+	},
+	"229": {
+		"symbol": "習",
+		"kunyomi": ["なら-う"],
+		"onyomi": ["シュウ"],
+		"meaning": {
+			"en": "learn, custom",
+			"ru": "учиться, особый"
+		}
+	},
+	"230": {
+		"symbol": "勉",
+		"kunyomi": [],
+		"onyomi": ["ベン"],
+		"meaning": {
+			"en": "endeavor",
+			"ru": "стремиться"
+		}
+	},
+	"231": {
+		"symbol": "強",
+		"kunyomi": ["つよ-い"],
+		"onyomi": ["キョウ"],
+		"meaning": {
+			"en": "strong, force",
+			"ru": "сильный, сила"
+		}
+	},
+	"232": {
+		"symbol": "研",
+		"kunyomi": [],
+		"onyomi": ["ケン"],
+		"meaning": {
+			"en": "grind, research",
+			"ru": "грызть, исследовать"
+		}
+	},
+	"233": {
+		"symbol": "究",
+		"kunyomi": [],
+		"onyomi": ["キュウ"],
+		"meaning": {
+			"en": "carry to extremity",
+			"ru": "стремиться до последнего"
+		}
+	},
+	"234": {
+		"symbol": "留",
+		"kunyomi": ["と-まる","と-める"],
+		"onyomi": ["リュウ"],
+		"meaning": {
+			"en": "stay, detain",
+			"ru": "оставаться, задерживаться"
+		}
+	},
+	"235": {
+		"symbol": "質",
+		"kunyomi": [],
+		"onyomi": ["シツ"],
+		"meaning": {
+			"en": "quality, question",
+			"ru": "качество, вопрос"
+		}
+	},
+	"236": {
+		"symbol": "問",
+		"kunyomi": ["と-う","と-い"],
+		"onyomi": ["モン"],
+		"meaning": {
+			"en": "question, ask, problem",
+			"ru": "вопрос, спрашивать, проблема"
+		}
+	},
+	"237": {
+		"symbol": "題",
+		"kunyomi": [],
+		"onyomi": ["ダイ"],
+		"meaning": {
+			"en": "title, topic",
+			"ru": "заголовок, тема"
+		}
+	},
+	"238": {
+		"symbol": "答",
+		"kunyomi": ["こた-える","こた-え"],
+		"onyomi": ["トウ"],
+		"meaning": {
+			"en": "answer",
+			"ru": "ответ"
+		}
+	},
+	"239": {
+		"symbol": "宿",
+		"kunyomi": [],
+		"onyomi": ["シュク"],
+		"meaning": {
+			"en": "lodge, inn",
+			"ru": "гостиница"
+		}
+	},
+	"240": {
+		"symbol": "政",
+		"kunyomi": [],
+		"onyomi": ["セイ"],
+		"meaning": {
+			"en": "politics, rule",
+			"ru": "политика, правило"
+		}
+	},
+	"241": {
+		"symbol": "治",
+		"kunyomi": ["おさ-まる","おさ-める","な-おる","な-おす"],
+		"onyomi": ["ジ","キ"],
+		"meaning": {
+			"en": "govern, cure",
+			"ru": "править, лечить"
+		}
+	},
+	"242": {
+		"symbol": "経",
+		"kunyomi": [],
+		"onyomi": ["ケイ"],
+		"meaning": {
+			"en": "manage, pass through",
+			"ru": "управлять, проводить"
+		}
+	},
+	"243": {
+		"symbol": "済",
+		"kunyomi": [],
+		"onyomi": ["サイ/ザイ-"],
+		"meaning": {
+			"en": "settle, save",
+			"ru": "обустраивать, сохранять"
+		}
+	},
+	"244": {
+		"symbol": "歴",
+		"kunyomi": [],
+		"onyomi": ["レキ"],
+		"meaning": {
+			"en": "continuation, passage of time",
+			"ru": "продолжение, течение времени"
+		}
+	},
+	"245": {
+		"symbol": "史",
+		"kunyomi": [],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "history",
+			"ru": "история"
+		}
+	},
+	"246": {
+		"symbol": "育",
+		"kunyomi": ["そだ-つ","そだ-てる"],
+		"onyomi": ["イク"],
+		"meaning": {
+			"en": "raise, bring up",
+			"ru": "поднимать, выращивать"
+		}
+	},
+	"247": {
+		"symbol": "化",
+		"kunyomi": [],
+		"onyomi": ["カ","ケ"],
+		"meaning": {
+			"en": "change, -ization",
+			"ru": "изменение, -изация"
+		}
+	},
+	"248": {
+		"symbol": "理",
+		"kunyomi": [],
+		"onyomi": ["リ"],
+		"meaning": {
+			"en": "reason, manage",
+			"ru": "причина, управление"
+		}
+	},
+	"249": {
+		"symbol": "科",
+		"kunyomi": [],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "branch, division, department",
+			"ru": "ветвь, отделение, отдел"
+		}
+	},
+	"250": {
+		"symbol": "数",
+		"kunyomi": ["かす","かぞ-える"],
+		"onyomi": ["スウ"],
+		"meaning": {
+			"en": "number, some, several",
+			"ru": "число, некоторый, несколько"
+		}
+	},
+	"251": {
+		"symbol": "医",
+		"kunyomi": [],
+		"onyomi": ["イ"],
+		"meaning": {
+			"en": "medicine, doctor",
+			"ru": "медицина, врач"
+		}
+	},
+	"252": {
+		"symbol": "映",
+		"kunyomi": ["うつ-る","うつ-す"],
+		"onyomi": ["エイ"],
+		"meaning": {
+			"en": "reflect, project",
+			"ru": "отражать, проецировать"
+		}
+	},
+	"253": {
+		"symbol": "画",
+		"kunyomi": [],
+		"onyomi": ["ガ", "カク"],
+		"meaning": {
+			"en": "picture, kanji strokes",
+			"ru": "картинка, штрихи кандзи"
+		}
+	},
+	"254": {
+		"symbol": "写",
+		"kunyomi": ["うつる", "うつす"],
+		"onyomi": ["シャ"],
+		"meaning": {
+			"en": "copy, photograph",
+			"ru": "копировать, фотографировать"
+		}
+	},
+	"255": {
+		"symbol": "真",
+		"kunyomi": ["ま"],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "true, just",
+			"ru": "правда, справедливость"
+		}
+	},
+	"256": {
+		"symbol": "音",
+		"kunyomi": ["おと"],
+		"onyomi": ["オン"],
+		"meaning": {
+			"en": "sound",
+			"ru": "звук"
+		}
+	},
+	"257": {
+		"symbol": "楽",
+		"kunyomi": ["たのしい", "たのしむ"],
+		"onyomi": ["ガク", "ラク"],
+		"meaning": {
+			"en": "pleasant, music",
+			"ru": "радость, музыка"
+		}
+	},
+	"258": {
+		"symbol": "料",
+		"kunyomi": [],
+		"onyomi": ["リョウ"],
+		"meaning": {
+			"en": "materials, fee",
+			"ru": "материалы, оплата"
+		}
+	},
+	"259": {
+		"symbol": "組",
+		"kunyomi": ["くむ","くみ/-ぐみ"],
+		"onyomi": ["ソ"],
+		"meaning": {
+			"en": "organize, assemble",
+			"ru": "организовывать, собирать"
+		}
+	},
+	"260": {
+		"symbol": "思",
+		"kunyomi": ["おも-う"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "think",
+			"ru": "думать"
+		}
+	},
+	"261": {
+		"symbol": "色",
+		"kunyomi": ["いろ"],
+		"onyomi": ["ショク"],
+		"meaning": {
+			"en": "color",
+			"ru": "цвет"
+		}
+	},
+	"262": {
+		"symbol": "白",
+		"kunyomi": ["しろ","しろ-い"],
+		"onyomi": ["ハク"],
+		"meaning": {
+			"en": "white",
+			"ru": "белый"
+		}
+	},
+	"263": {
+		"symbol": "黒",
+		"kunyomi": ["くろ","くろ-い"],
+		"onyomi": ["コク"],
+		"meaning": {
+			"en": "black",
+			"ru": "черный"
+		}
+	},
+	"264": {
+		"symbol": "赤",
+		"kunyomi": ["あか","あか-い"],
+		"onyomi": ["セキ"],
+		"meaning": {
+			"en": "red",
+			"ru": "красный"
+		}
+	},
+	"265": {
+		"symbol": "起",
+		"kunyomi": ["お-きる","お-こる","お-こす"],
+		"onyomi": ["キ"],
+		"meaning": {
+			"en": "rise, happen",
+			"ru": "возникать, случаться"
+		}
+	},
+	"266": {
+		"symbol": "寝",
+		"kunyomi": ["ねる","ね-かす"],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "sleep",
+			"ru": "спать"
+		}
+	},
+	"267": {
+		"symbol": "遊",
+		"kunyomi": ["あそ-ぶ"],
+		"onyomi": ["ユウ"],
+		"meaning": {
+			"en": "play, amuse",
+			"ru": "играть, развлекаться"
+		}
+	},
+	"268": {
+		"symbol": "立",
+		"kunyomi": ["た-つ","たち-","た-てる"],
+		"onyomi": ["リツ"],
+		"meaning": {
+			"en": "stand, establish",
+			"ru": "стоять, устанавливать"
+		}
+	},
+	"269": {
+		"symbol": "座",
+		"kunyomi": ["すわ-る"],
+		"onyomi": ["ザ"],
+		"meaning": {
+			"en": "seat, sit",
+			"ru": "сидение, садиться"
+		}
+	},
+	"270": {
+		"symbol": "使",
+		"kunyomi": ["つか-う"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "use",
+			"ru": "использовать"
+		}
+	},
+	"271": {
+		"symbol": "始",
+		"kunyomi": ["はじ-まる","はじ-める"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "begin, start",
+			"ru": "начало, старт"
+		}
+	},
+	"272": {
+		"symbol": "終",
+		"kunyomi": ["お-わる", "お-える"],
+		"onyomi": ["シュウ"],
+		"meaning": {
+			"en": "end, finish",
+			"ru": "конец, заканчивать(ся)"
+		}
+	},
+	"273": {
+		"symbol": "貸",
+		"kunyomi": ["か-す"],
+		"onyomi": ["タイ"],
+		"meaning": {
+			"en": "lend, rent",
+			"ru": "давать в долг, сдавать(в аренду)"
+		}
+	},
+	"274": {
+		"symbol": "借",
+		"kunyomi": ["か-りる"],
+		"onyomi": ["シャク/シャッ-"],
+		"meaning": {
+			"en": "borrow, rent",
+			"ru": "одалживать, брать в долг(в аренду)"
+		}
+	},
+	"275": {
+		"symbol": "返",
+		"kunyomi": ["かえ-る","かえ-す"],
+		"onyomi": ["ヘン"],
+		"meaning": {
+			"en": "return",
+			"ru": "возвращать"
+		}
+	},
+	"276": {
+		"symbol": "送",
+		"kunyomi": ["おく-る"],
+		"onyomi": ["ソウ"],
+		"meaning": {
+			"en": "send",
+			"ru": "отправлять, посылать"
+		}
+	},
+	"277": {
+		"symbol": "結",
+		"kunyomi": ["むす-ぶ"],
+		"onyomi": ["ケツ/ケッ-"],
+		"meaning": {
+			"en": "connect, conclude",
+			"ru": "соединять, делать заключение"
+		}
+	},
+	"278": {
+		"symbol": "婚",
+		"kunyomi": [],
+		"onyomi": ["コン"],
+		"meaning": {
+			"en": "marry",
+			"ru": "жениться"
+		}
+	},
+	"279": {
+		"symbol": "離",
+		"kunyomi": ["はな-れる","はな-す"],
+		"onyomi": ["リ"],
+		"meaning": {
+			"en": "separate",
+			"ru": "разделять"
+		}
+	},
+	"280": {
+		"symbol": "席",
+		"kunyomi": [],
+		"onyomi": ["セキ"],
+		"meaning": {
+			"en": "seat",
+			"ru": "сиденье, место"
+		}
+	},
+	"281": {
+		"symbol": "欠",
+		"kunyomi": ["か-ける","か-く"],
+		"onyomi": ["ケツ/ケッ-"],
+		"meaning": {
+			"en": "defect, lack",
+			"ru": "дефект, нехватка"
+		}
+	},
+	"282": {
+		"symbol": "予",
+		"kunyomi": [],
+		"onyomi": ["ヨ"],
+		"meaning": {
+			"en": "previous",
+			"ru": "заранее"
+		}
+	},
+	"283": {
+		"symbol": "定",
+		"kunyomi": ["さだ-まる","さだ-める"],
+		"onyomi": ["テイ"],
+		"meaning": {
+			"en": "fix, settle",
+			"ru": "фиксировать, устанавливать"
+		}
+	},
+	"284": {
+		"symbol": "洋",
+		"kunyomi": [],
+		"onyomi": ["ヨウ"],
+		"meaning": {
+			"en": "ocean, Western",
+			"ru": "океан, Запад"
+		}
+	},
+	"285": {
+		"symbol": "式",
+		"kunyomi": [],
+		"onyomi": ["シキ"],
+		"meaning": {
+			"en": "ceremony, form",
+			"ru": "церемония, форма"
+		}
+	},
+	"286": {
+		"symbol": "和",
+		"kunyomi": [],
+		"onyomi": ["ワ"],
+		"meaning": {
+			"en": "peace, sum, Japanese",
+			"ru": "мир, японский"
+		}
+	},
+	"287": {
+		"symbol": "活",
+		"kunyomi": [],
+		"onyomi": ["カツ/-カッ"],
+		"meaning": {
+			"en": "vivid, vigor",
+			"ru": "яркий, сильный"
+		}
+	},
+	"288": {
+		"symbol": "春",
+		"kunyomi": ["はる"],
+		"onyomi": ["シュン"],
+		"meaning": {
+			"en": "spring",
+			"ru": "весна"
+		}
+	},
+	"289": {
+		"symbol": "夏",
+		"kunyomi": ["なつ"],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "summer",
+			"ru": "лето"
+		}
+	},
+	"290": {
+		"symbol": "秋",
+		"kunyomi": ["あき"],
+		"onyomi": ["シュウ"],
+		"meaning": {
+			"en": "autumn",
+			"ru": "осень"
+		}
+	},
+	"291": {
+		"symbol": "冬",
+		"kunyomi": ["ふゆ"],
+		"onyomi": ["トウ"],
+		"meaning": {
+			"en": "winter",
+			"ru": "зима"
+		}
+	},
+	"292": {
+		"symbol": "暑",
+		"kunyomi": ["あつ-い"],
+		"onyomi": ["ショ"],
+		"meaning": {
+			"en": "hot (for weather)",
+			"ru": "жарко (погода)"
+		}
+	},
+	"293": {
+		"symbol": "熱",
+		"kunyomi": ["あつ-い"],
+		"onyomi": ["ネツ/ネッ-"],
+		"meaning": {
+			"en": "hot (for object), heat",
+			"ru": "горячий (объект), жар"
+		}
+	},
+	"294": {
+		"symbol": "寒",
+		"kunyomi": ["さむ-い"],
+		"onyomi": ["カン"],
+		"meaning": {
+			"en": "cold (for weather)",
+			"ru": "холодно (погода)"
+		}
+	},
+	"295": {
+		"symbol": "冷",
+		"kunyomi": ["ひ-える","ひ-やす","つめ-たい"],
+		"onyomi": ["レイ"],
+		"meaning": {
+			"en": "cold (for objects)",
+			"ru": "холодный (объект)"
+		}
+	},
+	"296": {
+		"symbol": "暖",
+		"kunyomi": ["あたた-かい"],
+		"onyomi": ["ダン"],
+		"meaning": {
+			"en": "warm (for weather)",
+			"ru": "тепло　(погода)"
+		}
+	},
+	"297": {
+		"symbol": "温",
+		"kunyomi": ["あたた-まる","あたた-める","あたた-かい"],
+		"onyomi": ["オン"],
+		"meaning": {
+			"en": "warm (for objects)",
+			"ru": "теплый (объект)"
+		}
+	},
+	"298": {
+		"symbol": "涼",
+		"kunyomi": ["すず-しい"],
+		"onyomi": ["リョウ"],
+		"meaning": {
+			"en": "cool",
+			"ru": "прохладно"
+		}
+	},
+	"299": {
+		"symbol": "天",
+		"kunyomi": ["あめ","あま-"],
+		"onyomi": ["テン"],
+		"meaning": {
+			"en": "weather",
+			"ru": "погода"
+		}
+	},
+	"300": {
+		"symbol": "仕",
+		"kunyomi": [],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "serve, do",
+			"ru": "служить, делать"
+		}
+	},
+	"301": {
+		"symbol": "事",
+		"kunyomi": ["こと"],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "thing, matter",
+			"ru": "вещь, дело"
+		}
+	},
+	"302": {
+		"symbol": "者",
+		"kunyomi": ["もの"],
+		"onyomi": ["シャ"],
+		"meaning": {
+			"en": "person",
+			"ru": "персона"
+		}
+	},
+	"303": {
+		"symbol": "運",
+		"kunyomi": ["はこ-ぶ"],
+		"onyomi": ["ウン"],
+		"meaning": {
+			"en": "carry, fortune",
+			"ru": "нести, удача"
+		}
+	},
+	"304": {
+		"symbol": "転",
+		"kunyomi": ["ころ-ぶ"],
+		"onyomi": ["テン"],
+		"meaning": {
+			"en": "turn",
+			"ru": "поворачивать"
+		}
+	},
+	"305": {
+		"symbol": "選",
+		"kunyomi": ["えら-ぶ"],
+		"onyomi": ["セン"],
+		"meaning": {
+			"en": "choose, elect",
+			"ru": "выбирать, избирать"
+		}
+	},
+	"306": {
+		"symbol": "記",
+		"kunyomi": [],
+		"onyomi": ["キ"],
+		"meaning": {
+			"en": "write down",
+			"ru": "записывать"
+		}
+	},
+	"307": {
+		"symbol": "議",
+		"kunyomi": [],
+		"onyomi": ["ギ"],
+		"meaning": {
+			"en": "discuss",
+			"ru": "обсуждать"
+		}
+	},
+	"308": {
+		"symbol": "員",
+		"kunyomi": [],
+		"onyomi": ["イン"],
+		"meaning": {
+			"en": "member",
+			"ru": "член, часть"
+		}
+	},
+	"309": {
+		"symbol": "商",
+		"kunyomi": [],
+		"onyomi": ["ショウ"],
+		"meaning": {
+			"en": "commerce, trade",
+			"ru": "коммерция, торговля"
+		}
+	},
+	"310": {
+		"symbol": "業",
+		"kunyomi": [],
+		"onyomi": ["ギョウ"],
+		"meaning": {
+			"en": "job, business",
+			"ru": "занятие, дело"
+		}
+	},
+	"311": {
+		"symbol": "農",
+		"kunyomi": [],
+		"onyomi": ["ノウ"],
+		"meaning": {
+			"en": "farming, agriculture",
+			"ru": "ферма, растениеводство"
+		}
+	},
+	"312": {
+		"symbol": "良",
+		"kunyomi": ["よ-い"],
+		"onyomi": ["リョウ"],
+		"meaning": {
+			"en": "good",
+			"ru": "хороший"
+		}
+	},
+	"313": {
+		"symbol": "悪",
+		"kunyomi": ["わる-い"],
+		"onyomi": ["アク"],
+		"meaning": {
+			"en": "bad",
+			"ru": "плохой"
+		}
+	},
+	"314": {
+		"symbol": "点",
+		"kunyomi": [],
+		"onyomi": ["テン"],
+		"meaning": {
+			"en": "point, score",
+			"ru": "балл, очко"
+		}
+	},
+	"315": {
+		"symbol": "正",
+		"kunyomi": ["ただ-しい"],
+		"onyomi": ["セイ","ショウ"],
+		"meaning": {
+			"en": "right, correct",
+			"ru": "правильный"
+		}
+	},
+	"316": {
+		"symbol": "違",
+		"kunyomi": ["ちが-う"],
+		"onyomi": ["イ"],
+		"meaning": {
+			"en": "differ, violate",
+			"ru": "разный, принуждать"
+		}
+	},
+	"317": {
+		"symbol": "同",
+		"kunyomi": ["おな-じ"],
+		"onyomi": ["ドウ"],
+		"meaning": {
+			"en": "same",
+			"ru": "такой же"
+		}
+	},
+	"318": {
+		"symbol": "適",
+		"kunyomi": [],
+		"onyomi": ["テキ"],
+		"meaning": {
+			"en": "suitable",
+			"ru": "подходящий"
+		}
+	},
+	"319": {
+		"symbol": "当",
+		"kunyomi": ["あ-たる", "あ-てる"],
+		"onyomi": ["トウ"],
+		"meaning": {
+			"en": "hit, right",
+			"ru": "попадание, правильный"
+		}
+	},
+	"320": {
+		"symbol": "難",
+		"kunyomi": ["むずか-しい"],
+		"onyomi": ["ナン"],
+		"meaning": {
+			"en": "difficult",
+			"ru": "трудный"
+		}
+	},
+	"321": {
+		"symbol": "次",
+		"kunyomi": ["つ-ぐ", "つぎ"],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "next",
+			"ru": "следующий"
+		}
+	},
+	"322": {
+		"symbol": "形",
+		"kunyomi": ["かたち"],
+		"onyomi": ["ケイ","ギョウ"],
+		"meaning": {
+			"en": "shape, form",
+			"ru": "форма"
+		}
+	},
+	"323": {
+		"symbol": "味",
+		"kunyomi": ["あじ","あじ-わう"],
+		"onyomi": ["ミ"],
+		"meaning": {
+			"en": "taste",
+			"ru": "вкус"
+		}
+	},
+	"324": {
+		"symbol": "試",
+		"kunyomi": ["こころ-みる","ため-す"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "try",
+			"ru": "пробовать"
+		}
+	},
+	"325": {
+		"symbol": "験",
+		"kunyomi": [],
+		"onyomi": ["ケン"],
+		"meaning": {
+			"en": "examine, effect",
+			"ru": "обследовать, эффект"
+		}
+	},
+	"326": {
+		"symbol": "面",
+		"kunyomi": ["(おも)"],
+		"onyomi": ["メン"],
+		"meaning": {
+			"en": "face, surface",
+			"ru": "лицо, поверхность"
+		}
+	},
+	"327": {
+		"symbol": "接",
+		"kunyomi": ["(つ-ぐ)"],
+		"onyomi": ["セツ/セッ-"],
+		"meaning": {
+			"en": "connect, touch",
+			"ru": "соединяться, прикасаться"
+		}
+	},
+	"328": {
+		"symbol": "説",
+		"kunyomi": [],
+		"onyomi": ["セツ/セッ-"],
+		"meaning": {
+			"en": "explain",
+			"ru": "объяснять"
+		}
+	},
+	"329": {
+		"symbol": "果",
+		"kunyomi": [],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "fruit, result",
+			"ru": "плод, фрукт, результат"
+		}
+	},
+	"330": {
+		"symbol": "合",
+		"kunyomi": ["あう","あわす"],
+		"onyomi": ["ゴウ","ガッ"],
+		"meaning": {
+			"en": "fit, suit",
+			"ru": "подходить, совпадать"
+		}
+	},
+	"331": {
+		"symbol": "格",
+		"kunyomi": [],
+		"onyomi": ["カク"],
+		"meaning": {
+			"en": "status, rank",
+			"ru": "статус, ранг"
+		}
+	},
+	"332": {
+		"symbol": "受",
+		"kunyomi": ["う-かる","う-ける"],
+		"onyomi": ["ジュ"],
+		"meaning": {
+			"en": "receive",
+			"ru": "получать"
+		}
+	},
+	"333": {
+		"symbol": "落",
+		"kunyomi": ["お-ちる","お-とす"],
+		"onyomi": ["ラク/ラッ-"],
+		"meaning": {
+			"en": "fall, drop",
+			"ru": "падать, ронять"
+		}
+	},
+	"334": {
+		"symbol": "残",
+		"kunyomi": ["のこ-る","のこ-す"],
+		"onyomi": ["ザン"],
+		"meaning": {
+			"en": "remain",
+			"ru": "оставаться"
+		}
+	},
+	"335": {
+		"symbol": "念",
+		"kunyomi": [],
+		"onyomi": ["ネン"],
+		"meaning": {
+			"en": "thoughts",
+			"ru": "мысли"
+		}
+	},
+	"336": {
+		"symbol": "指",
+		"kunyomi": ["ゆび","さ-す"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "finger, point",
+			"ru": "палец, показывать"
+		}
+	},
+	"337": {
+		"symbol": "折",
+		"kunyomi": ["お-る"],
+		"onyomi": ["セツ"],
+		"meaning": {
+			"en": "fold, break",
+			"ru": "сгибать, разламывать"
+		}
+	},
+	"338": {
+		"symbol": "払",
+		"kunyomi": ["はら-う"],
+		"onyomi": [],
+		"meaning": {
+			"en": "pay",
+			"ru": "платить"
+		}
+	},
+	"339": {
+		"symbol": "投",
+		"kunyomi": ["な-げる"],
+		"onyomi": ["トウ"],
+		"meaning": {
+			"en": "throw",
+			"ru": "бросать, кидать"
+		}
+	},
+	"340": {
+		"symbol": "打",
+		"kunyomi": ["う-つ"],
+		"onyomi": ["ダ"],
+		"meaning": {
+			"en": "strike, hit",
+			"ru": "ударять"
+		}
+	},
+	"341": {
+		"symbol": "深",
+		"kunyomi": ["ふか-まる","ふか-める","ふか-い"],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "deep",
+			"ru": "глубокий"
+		}
+	},
+	"342": {
+		"symbol": "洗",
+		"kunyomi": ["あら-う"],
+		"onyomi": ["セン"],
+		"meaning": {
+			"en": "wash",
+			"ru": "мыть, стирать"
+		}
+	},
+	"343": {
+		"symbol": "流",
+		"kunyomi": ["なが-れる","なが-す"],
+		"onyomi": ["リュウ"],
+		"meaning": {
+			"en": "flow, stream",
+			"ru": "течь, поток"
+		}
+	},
+	"344": {
+		"symbol": "消",
+		"kunyomi": ["き-える","け-す"],
+		"onyomi": ["ショウ"],
+		"meaning": {
+			"en": "extinguish, erase",
+			"ru": "исчезать, стирать"
+		}
+	},
+	"345": {
+		"symbol": "決",
+		"kunyomi": ["きまる","きめる"],
+		"onyomi": ["ケツ/ケッ-"],
+		"meaning": {
+			"en": "decide",
+			"ru": "решать"
+		}
+	},
+	"346": {
+		"symbol": "旅",
+		"kunyomi": ["たび"],
+		"onyomi": ["リョ"],
+		"meaning": {
+			"en": "travel",
+			"ru": "путешествие"
+		}
+	},
+	"347": {
+		"symbol": "約",
+		"kunyomi": [],
+		"onyomi": ["ヤク"],
+		"meaning": {
+			"en": "promise, about",
+			"ru": "обещание, о"
+		}
+	},
+	"348": {
+		"symbol": "案",
+		"kunyomi": [],
+		"onyomi": ["アン"],
+		"meaning": {
+			"en": "idea, proposal",
+			"ru": "идея, предложение"
+		}
+	},
+	"349": {
+		"symbol": "準",
+		"kunyomi": [],
+		"onyomi": ["ジュン"],
+		"meaning": {
+			"en": "standard, semi-",
+			"ru": "обычный, полу-"
+		}
+	},
+	"350": {
+		"symbol": "備",
+		"kunyomi": [],
+		"onyomi": ["ビ"],
+		"meaning": {
+			"en": "provide",
+			"ru": "снабжать"
+		}
+	},
+	"351": {
+		"symbol": "相",
+		"kunyomi": ["あい"],
+		"onyomi": ["ソウ","ショウ"],
+		"meaning": {
+			"en": "each other, minister",
+			"ru": "каждый, министр"
+		}
+	},
+	"352": {
+		"symbol": "談",
+		"kunyomi": [],
+		"onyomi": ["ダン"],
+		"meaning": {
+			"en": "talk",
+			"ru": "разговаривать"
+		}
+	},
+	"353": {
+		"symbol": "連",
+		"kunyomi": ["つ-れる"],
+		"onyomi": ["レン"],
+		"meaning": {
+			"en": "link",
+			"ru": "связь"
+		}
+	},
+	"354": {
+		"symbol": "絡",
+		"kunyomi": [],
+		"onyomi": ["ラク"],
+		"meaning": {
+			"en": "entangle",
+			"ru": "завязывать, запутывать"
+		}
+	},
+	"355": {
+		"symbol": "泊",
+		"kunyomi": ["と-まる","と-める"],
+		"onyomi": ["ハク/-パク"],
+		"meaning": {
+			"en": "stay",
+			"ru": "оставаться"
+		}
+	},
+	"356": {
+		"symbol": "特",
+		"kunyomi": [],
+		"onyomi": ["トク/トッ-"],
+		"meaning": {
+			"en": "special",
+			"ru": "особенный"
+		}
+	},
+	"357": {
+		"symbol": "急",
+		"kunyomi": ["いそぐ"],
+		"onyomi": ["キュウ"],
+		"meaning": {
+			"en": "hurry",
+			"ru": "спешить, торопиться"
+		}
+	},
+	"358": {
+		"symbol": "線",
+		"kunyomi": [],
+		"onyomi": ["セン"],
+		"meaning": {
+			"en": "line",
+			"ru": "линия"
+		}
+	},
+	"359": {
+		"symbol": "発",
+		"kunyomi": [],
+		"onyomi": ["ハツ/ハッ-","-パツ"],
+		"meaning": {
+			"en": "start",
+			"ru": "старт"
+		}
+	},
+	"360": {
+		"symbol": "到",
+		"kunyomi": [],
+		"onyomi": ["トウ"],
+		"meaning": {
+			"en": "arrive",
+			"ru": "прибывать"
+		}
+	},
+	"361": {
+		"symbol": "交",
+		"kunyomi": ["ま-じる","まじ-わる"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "cross, exchange",
+			"ru": "пересекать, обменивать"
+		}
+	},
+	"362": {
+		"symbol": "機",
+		"kunyomi": [],
+		"onyomi": ["キ"],
+		"meaning": {
+			"en": "machine, chance",
+			"ru": "машина, шанс"
+		}
+	},
+	"363": {
+		"symbol": "関",
+		"kunyomi": [],
+		"onyomi": ["カン"],
+		"meaning": {
+			"en": "barrier, relate, joint",
+			"ru": "барьер, отношение, связанный"
+		}
+	},
+	"364": {
+		"symbol": "局",
+		"kunyomi": [],
+		"onyomi": ["キョク"],
+		"meaning": {
+			"en": "section, bureau",
+			"ru": "отдел, бюро"
+		}
+	},
+	"365": {
+		"symbol": "信",
+		"kunyomi": [],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "believe, message",
+			"ru": "верить, сообщение"
+		}
+	},
+	"366": {
+		"symbol": "路",
+		"kunyomi": [],
+		"onyomi": ["ロ"],
+		"meaning": {
+			"en": "road",
+			"ru": "дорога"
+		}
+	},
+	"367": {
+		"symbol": "故",
+		"kunyomi": [],
+		"onyomi": ["コ"],
+		"meaning": {
+			"en": "old, deceased, obstacle",
+			"ru": "старый, мертвый, препятствие"
+		}
+	},
+	"368": {
+		"symbol": "注",
+		"kunyomi": [],
+		"onyomi": ["チュウ"],
+		"meaning": {
+			"en": "pour, focus",
+			"ru": "наливать, фокус"
+		}
+	},
+	"369": {
+		"symbol": "意",
+		"kunyomi": [],
+		"onyomi": ["イ"],
+		"meaning": {
+			"en": "mind, meaning",
+			"ru": "разум, смысл"
+		}
+	},
+	"370": {
+		"symbol": "押",
+		"kunyomi": ["お-す"],
+		"onyomi": [],
+		"meaning": {
+			"en": "press, push",
+			"ru": "нажимать, толкать"
+		}
+	},
+	"371": {
+		"symbol": "引",
+		"kunyomi": ["ひ-く"],
+		"onyomi": ["イン"],
+		"meaning": {
+			"en": "pull, draw",
+			"ru": "тянуть, тащить"
+		}
+	},
+	"372": {
+		"symbol": "割",
+		"kunyomi": ["われ-る","わ-る","わり"],
+		"onyomi": ["カツ"],
+		"meaning": {
+			"en": "divide",
+			"ru": "делить"
+		}
+	},
+	"373": {
+		"symbol": "営",
+		"kunyomi": [],
+		"onyomi": ["エイ"],
+		"meaning": {
+			"en": "manage",
+			"ru": "управлять"
+		}
+	},
+	"374": {
+		"symbol": "自",
+		"kunyomi": [],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "self",
+			"ru": "сам"
+		}
+	},
+	"375": {
+		"symbol": "由",
+		"kunyomi": [],
+		"onyomi": ["ユ","ユウ"],
+		"meaning": {
+			"en": "reason",
+			"ru": "причина"
+		}
+	},
+	"376": {
+		"symbol": "取",
+		"kunyomi": ["ち-る"],
+		"onyomi": ["シュ"],
+		"meaning": {
+			"en": "take",
+			"ru": "брать"
+		}
+	},
+	"377": {
+		"symbol": "求",
+		"kunyomi": ["もと-める"],
+		"onyomi": ["キュウ"],
+		"meaning": {
+			"en": "request, demand",
+			"ru": "запрос, требовать"
+		}
+	},
+	"378": {
+		"symbol": "願",
+		"kunyomi": ["ねが-う"],
+		"onyomi": ["ガン"],
+		"meaning": {
+			"en": "wish, request",
+			"ru": "желание, просить"
+		}
+	},
+	"379": {
+		"symbol": "知",
+		"kunyomi": ["し-る"],
+		"onyomi": ["チ"],
+		"meaning": {
+			"en": "know",
+			"ru": "знать"
+		}
+	},
+	"380": {
+		"symbol": "台",
+		"kunyomi": [],
+		"onyomi": ["ダイ", "タイ"],
+		"meaning": {
+			"en": "board, stand",
+			"ru": "доска, подставка"
+		}
+	},
+	"381": {
+		"symbol": "窓",
+		"kunyomi": ["まど"],
+		"onyomi": ["ソウ"],
+		"meaning": {
+			"en": "window",
+			"ru": "окно"
+		}
+	},
+	"382": {
+		"symbol": "具",
+		"kunyomi": [],
+		"onyomi": ["グ"],
+		"meaning": {
+			"en": "tool, instrument",
+			"ru": "инструмент"
+		}
+	},
+	"383": {
+		"symbol": "器",
+		"kunyomi": ["うつわ"],
+		"onyomi": ["キ"],
+		"meaning": {
+			"en": "container, tool",
+			"ru": "контейнер, инструмент"
+		}
+	},
+	"384": {
+		"symbol": "用",
+		"kunyomi": ["もち-いる"],
+		"onyomi": ["ヨウ"],
+		"meaning": {
+			"en": "use, errand",
+			"ru": "использовать, поручать"
+		}
+	},
+	"385": {
+		"symbol": "服",
+		"kunyomi": [],
+		"onyomi": ["フク"],
+		"meaning": {
+			"en": "clothes",
+			"ru": "одежда"
+		}
+	},
+	"386": {
+		"symbol": "紙",
+		"kunyomi": ["かみ"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "paper",
+			"ru": "бумага"
+		}
+	},
+	"387": {
+		"symbol": "辞",
+		"kunyomi": [],
+		"onyomi": ["ジ"],
+		"meaning": {
+			"en": "word, affix, resign",
+			"ru": "слово, придаток, отказываться"
+		}
+	},
+	"388": {
+		"symbol": "雑",
+		"kunyomi": [],
+		"onyomi": ["ザツ/ザッ-","(ゾウ)"],
+		"meaning": {
+			"en": "rough, mixed",
+			"ru": "грубый, смешанный"
+		}
+	},
+	"389": {
+		"symbol": "誌",
+		"kunyomi": [],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "record, magazine",
+			"ru": "запись, журнал"
+		}
+	},
+	"390": {
+		"symbol": "銀",
+		"kunyomi": [],
+		"onyomi": ["ギン"],
+		"meaning": {
+			"en": "silver",
+			"ru": "серебро"
+		}
+	},
+	"391": {
+		"symbol": "資",
+		"kunyomi": [],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "capital, fund, resources",
+			"ru": "капитал, фонд, ресурсы"
+		}
+	},
+	"392": {
+		"symbol": "品",
+		"kunyomi": ["しな"],
+		"onyomi": ["ヒン"],
+		"meaning": {
+			"en": "article, goods",
+			"ru": "предмет, товар"
+		}
+	},
+	"393": {
+		"symbol": "個",
+		"kunyomi": [],
+		"onyomi": ["コ"],
+		"meaning": {
+			"en": "individual",
+			"ru": "индивидуальный"
+		}
+	},
+	"394": {
+		"symbol": "価",
+		"kunyomi": [],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "price, value",
+			"ru": "цена, значение"
+		}
+	},
+	"395": {
+		"symbol": "産",
+		"kunyomi": ["う-まれる","う-む"],
+		"onyomi": ["サン"],
+		"meaning": {
+			"en": "produce, give birth",
+			"ru": "производить, рождать"
+		}
+	},
+	"396": {
+		"symbol": "期",
+		"kunyomi": [],
+		"onyomi": ["キ"],
+		"meaning": {
+			"en": "term, expect",
+			"ru": "срок, ожидание"
+		}
+	},
+	"397": {
+		"symbol": "々",
+		"kunyomi": [],
+		"onyomi": [],
+		"meaning": {
+			"en": "(symbol of repetition)",
+			"ru": "(символ повторения)"
+		}
+	},
+	"398": {
+		"symbol": "報",
+		"kunyomi": [],
+		"onyomi": ["ホウ"],
+		"meaning": {
+			"en": "report, inform",
+			"ru": "сообщать, информировать"
+		}
+	},
+	"399": {
+		"symbol": "告",
+		"kunyomi": [],
+		"onyomi": ["コク"],
+		"meaning": {
+			"en": "announce",
+			"ru": "анонсировать"
+		}
+	},
+	"400": {
+		"symbol": "心",
+		"kunyomi": ["こころ"],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "heart",
+			"ru": "сердце"
+		}
+	},
+	"401": {
+		"symbol": "感",
+		"kunyomi": [],
+		"onyomi": ["カン"],
+		"meaning": {
+			"en": "feel, sense",
+			"ru": "чувствовать, ощущать"
+		}
+	},
+	"402": {
+		"symbol": "情",
+		"kunyomi": ["なさ-け"],
+		"onyomi": ["ジョウ"],
+		"meaning": {
+			"en": "emotion, condition",
+			"ru": "эмоция, состояние"
+		}
+	},
+	"403": {
+		"symbol": "悲",
+		"kunyomi": ["かな-しい","かな-しむ"],
+		"onyomi": ["ヒ"],
+		"meaning": {
+			"en": "sad",
+			"ru": "грустный"
+		}
+	},
+	"404": {
+		"symbol": "泣",
+		"kunyomi": ["な-く"],
+		"onyomi": [],
+		"meaning": {
+			"en": "cry",
+			"ru": "плакать"
+		}
+	},
+	"405": {
+		"symbol": "笑",
+		"kunyomi": ["わら-う"],
+		"onyomi": ["ショウ"],
+		"meaning": {
+			"en": "laugh",
+			"ru": "смеяться"
+		}
+	},
+	"406": {
+		"symbol": "頭",
+		"kunyomi": ["あたま"],
+		"onyomi": ["トウ","ズ"],
+		"meaning": {
+			"en": "head",
+			"ru": "голова"
+		}
+	},
+	"407": {
+		"symbol": "覚",
+		"kunyomi": ["さ-める","さ-ます","おぼ-える"],
+		"onyomi": ["カク"],
+		"meaning": {
+			"en": "awake, sense",
+			"ru": "пробуждение, чувство"
+		}
+	},
+	"408": {
+		"symbol": "忘",
+		"kunyomi": ["わす-れる"],
+		"onyomi": ["ボウ"],
+		"meaning": {
+			"en": "forget",
+			"ru": "забывать"
+		}
+	},
+	"409": {
+		"symbol": "考",
+		"kunyomi": ["かんが-える"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "think",
+			"ru": "думать"
+		}
+	},
+	"410": {
+		"symbol": "伝",
+		"kunyomi": ["つたわる","つたえる"],
+		"onyomi": ["デン"],
+		"meaning": {
+			"en": "transmit",
+			"ru": "передавать"
+		}
+	},
+	"411": {
+		"symbol": "代",
+		"kunyomi": ["かわる","かえる"],
+		"onyomi": ["ダイ","タイ"],
+		"meaning": {
+			"en": "substitute, fee",
+			"ru": "заменять, оплата"
+		}
+	},
+	"412": {
+		"symbol": "呼",
+		"kunyomi": ["よ-ぶ"],
+		"onyomi": ["コ"],
+		"meaning": {
+			"en": "call",
+			"ru": "звать, вызывать"
+		}
+	},
+	"413": {
+		"symbol": "焼",
+		"kunyomi": ["や-ける","や-く"],
+		"onyomi": ["ショウ"],
+		"meaning": {
+			"en": "burn",
+			"ru": "жечь, жарить"
+		}
+	},
+	"414": {
+		"symbol": "曲",
+		"kunyomi": ["ま-がる","ま-げる"],
+		"onyomi": ["キョク"],
+		"meaning": {
+			"en": "bend, curve, melody",
+			"ru": "огибать, кривая, мелодия"
+		}
+	},
+	"415": {
+		"symbol": "脱",
+		"kunyomi": ["ぬ-げる","ぬ-ぐ"],
+		"onyomi": ["ダツ/ダッ-"],
+		"meaning": {
+			"en": "undress, escape",
+			"ru": "раздеваться, спасаться"
+		}
+	},
+	"416": {
+		"symbol": "別",
+		"kunyomi": ["わか-れる"],
+		"onyomi": ["ベツ"],
+		"meaning": {
+			"en": "separate, another",
+			"ru": "отдельный, другой"
+		}
+	},
+	"417": {
+		"symbol": "集",
+		"kunyomi": ["あつ-まる","あつ-める"],
+		"onyomi": ["シュウ"],
+		"meaning": {
+			"en": "collect, assemble",
+			"ru": "собирать, коллекционировать"
+		}
+	},
+	"418": {
+		"symbol": "並",
+		"kunyomi": ["ならぶ","ならべる","なみ"],
+		"onyomi": ["ヘイ"],
+		"meaning": {
+			"en": "line up",
+			"ru": "выстраивать (в ряд)"
+		}
+	},
+	"419": {
+		"symbol": "喜",
+		"kunyomi": ["よろこ-ぶ"],
+		"onyomi": ["キ"],
+		"meaning": {
+			"en": "joy, pleasure",
+			"ru": "удовольствие"
+		}
+	},
+	"420": {
+		"symbol": "驚",
+		"kunyomi": ["おどろく"],
+		"onyomi": ["キョウ"],
+		"meaning": {
+			"en": "surprise",
+			"ru": "сюрприз"
+		}
+	},
+	"421": {
+		"symbol": "細",
+		"kunyomi": ["ほそ-い","こま-かい"],
+		"onyomi": ["サイ"],
+		"meaning": {
+			"en": "thin, slender",
+			"ru": "худой, тощий"
+		}
+	},
+	"422": {
+		"symbol": "太",
+		"kunyomi": ["ふと-い","ふと-る"],
+		"onyomi": ["タイ"],
+		"meaning": {
+			"en": "fat, big",
+			"ru": "толстый, большой"
+		}
+	},
+	"423": {
+		"symbol": "重",
+		"kunyomi": ["おも-い"],
+		"onyomi": ["ジュウ"],
+		"meaning": {
+			"en": "heavy, importrant",
+			"ru": "тяжелый, важный"
+		}
+	},
+	"424": {
+		"symbol": "軽",
+		"kunyomi": ["かる-い"],
+		"onyomi": ["ケイ"],
+		"meaning": {
+			"en": "light",
+			"ru": "легкий"
+		}
+	},
+	"425": {
+		"symbol": "狭",
+		"kunyomi": ["せま-い"],
+		"onyomi": ["キョウ"],
+		"meaning": {
+			"en": "narrow",
+			"ru": "узкий, тесный"
+		}
+	},
+	"426": {
+		"symbol": "弱",
+		"kunyomi": ["よわ-い","よわ-る"],
+		"onyomi": ["ジャク"],
+		"meaning": {
+			"en": "weak",
+			"ru": "слабый"
+		}
+	},
+	"427": {
+		"symbol": "眠",
+		"kunyomi": ["ねむ-い","ねむ-る"],
+		"onyomi": ["ミン"],
+		"meaning": {
+			"en": "sleep",
+			"ru": "спать"
+		}
+	},
+	"428": {
+		"symbol": "苦",
+		"kunyomi": ["くる-しい","くる-しむ","にが-い"],
+		"onyomi": ["ク"],
+		"meaning": {
+			"en": "pain, bitter",
+			"ru": "боль, горечь"
+		}
+	},
+	"429": {
+		"symbol": "簡",
+		"kunyomi": [],
+		"onyomi": ["カン"],
+		"meaning": {
+			"en": "simple, epistle",
+			"ru": "простой"
+		}
+	},
+	"430": {
+		"symbol": "単",
+		"kunyomi": [],
+		"onyomi": ["タン"],
+		"meaning": {
+			"en": "single",
+			"ru": "единственный"
+		}
+	},
+	"431": {
+		"symbol": "空",
+		"kunyomi": ["あ-く","あ-ける","そら"],
+		"onyomi": ["クウ"],
+		"meaning": {
+			"en": "sky, air, empty, vacant",
+			"ru": "небо, воздух, пустой, свободный"
+		}
+	},
+	"432": {
+		"symbol": "港",
+		"kunyomi": ["みなと"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "port, harbor",
+			"ru": "порт, гавань"
+		}
+	},
+	"433": {
+		"symbol": "飛",
+		"kunyomi": ["と-ぶ","と-ばす"],
+		"onyomi": ["ヒ"],
+		"meaning": {
+			"en": "fly",
+			"ru": "летать"
+		}
+	},
+	"434": {
+		"symbol": "階",
+		"kunyomi": [],
+		"onyomi": ["カイ"],
+		"meaning": {
+			"en": "floor, step",
+			"ru": "пол, шаг"
+		}
+	},
+	"435": {
+		"symbol": "建",
+		"kunyomi": ["た-つ","た-てる"],
+		"onyomi": ["ケン"],
+		"meaning": {
+			"en": "build, construct",
+			"ru": "строить, конструировать"
+		}
+	},
+	"436": {
+		"symbol": "設",
+		"kunyomi": [],
+		"onyomi": ["セツ/セッ-"],
+		"meaning": {
+			"en": "set up, establish",
+			"ru": "устанавливать, основывать"
+		}
+	},
+	"437": {
+		"symbol": "完",
+		"kunyomi": [],
+		"onyomi": ["カン"],
+		"meaning": {
+			"en": "complete",
+			"ru": "завершенный"
+		}
+	},
+	"438": {
+		"symbol": "成",
+		"kunyomi": ["な-る/なり"],
+		"onyomi": ["セイ"],
+		"meaning": {
+			"en": "form, emerge",
+			"ru": "форма, появляться"
+		}
+	},
+	"439": {
+		"symbol": "費",
+		"kunyomi": [],
+		"onyomi": ["ヒ"],
+		"meaning": {
+			"en": "cost, expense",
+			"ru": "стоимость, расход"
+		}
+	},
+	"440": {
+		"symbol": "放",
+		"kunyomi": ["はな-す"],
+		"onyomi": ["ホウ"],
+		"meaning": {
+			"en": "release, let go",
+			"ru": "отпускать, дать уйти"
+		}
+	},
+	"441": {
+		"symbol": "位",
+		"kunyomi": ["くらい"],
+		"onyomi": ["イ"],
+		"meaning": {
+			"en": "position, rank",
+			"ru": "позиция, ранг"
+		}
+	},
+	"442": {
+		"symbol": "置",
+		"kunyomi": ["お-く"],
+		"onyomi": ["チ"],
+		"meaning": {
+			"en": "put, place",
+			"ru": "класть, помещать"
+		}
+	},
+	"443": {
+		"symbol": "横",
+		"kunyomi": ["よこ"],
+		"onyomi": ["オウ"],
+		"meaning": {
+			"en": "horizontal, side, wide",
+			"ru": "горизонтальный, бок, широкий"
+		}
+	},
+	"444": {
+		"symbol": "向",
+		"kunyomi": ["む-く","む-ける","む-こう"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "direction, turn toward",
+			"ru": "направление, поворачивать к"
+		}
+	},
+	"445": {
+		"symbol": "原",
+		"kunyomi": ["はら"],
+		"onyomi": ["ゲン"],
+		"meaning": {
+			"en": "plain, original",
+			"ru": "плоский, изначальный"
+		}
+	},
+	"446": {
+		"symbol": "平",
+		"kunyomi": ["たい-ら"],
+		"onyomi": ["ヘイ","ビョウ"],
+		"meaning": {
+			"en": "flat, calm",
+			"ru": "плоский, спокойный"
+		}
+	},
+	"447": {
+		"symbol": "野",
+		"kunyomi": ["の"],
+		"onyomi": ["ヤ"],
+		"meaning": {
+			"en": "field",
+			"ru": "поле"
+		}
+	},
+	"448": {
+		"symbol": "風",
+		"kunyomi": ["かぜ"],
+		"onyomi": ["フウ"],
+		"meaning": {
+			"en": "wind, manner",
+			"ru": "ветер, манера"
+		}
+	},
+	"449": {
+		"symbol": "両",
+		"kunyomi": [],
+		"onyomi": ["リョウ"],
+		"meaning": {
+			"en": "both, money",
+			"ru": "оба, деньги"
+		}
+	},
+	"450": {
+		"symbol": "橋",
+		"kunyomi": ["はし"],
+		"onyomi": ["キョウ"],
+		"meaning": {
+			"en": "bridge",
+			"ru": "мост"
+		}
+	},
+	"451": {
+		"symbol": "老",
+		"kunyomi": ["お-いる"],
+		"onyomi": ["ロウ"],
+		"meaning": {
+			"en": "old",
+			"ru": "старый"
+		}
+	},
+	"452": {
+		"symbol": "族",
+		"kunyomi": [],
+		"onyomi": ["ゾク"],
+		"meaning": {
+			"en": "family",
+			"ru": "семья"
+		}
+	},
+	"453": {
+		"symbol": "配",
+		"kunyomi": ["くば-る"],
+		"onyomi": ["ハイ/-パイ"],
+		"meaning": {
+			"en": "supply, deliver",
+			"ru": "поставки, доставка"
+		}
+	},
+	"454": {
+		"symbol": "術",
+		"kunyomi": [],
+		"onyomi": ["ジュツ"],
+		"meaning": {
+			"en": "technique, art",
+			"ru": "техника, искусство"
+		}
+	},
+	"455": {
+		"symbol": "退",
+		"kunyomi": ["しりぞ-く"],
+		"onyomi": ["タイ"],
+		"meaning": {
+			"en": "retreat",
+			"ru": "отступать"
+		}
+	},
+	"456": {
+		"symbol": "効",
+		"kunyomi": ["き-く"],
+		"onyomi": ["コウ"],
+		"meaning": {
+			"en": "effect",
+			"ru": "эффект"
+		}
+	},
+	"457": {
+		"symbol": "民",
+		"kunyomi": [],
+		"onyomi": ["ミン"],
+		"meaning": {
+			"en": "people, folk",
+			"ru": "люди, народ"
+		}
+	},
+	"458": {
+		"symbol": "訪",
+		"kunyomi": ["たず-ねる","おとず-れる"],
+		"onyomi": ["ホウ"],
+		"meaning": {
+			"en": "visit",
+			"ru": "посещать"
+		}
+	},
+	"459": {
+		"symbol": "顔",
+		"kunyomi": ["かお"],
+		"onyomi": ["ガン"],
+		"meaning": {
+			"en": "face",
+			"ru": "лицо"
+		}
+	},
+	"460": {
+		"symbol": "歯",
+		"kunyomi": ["は"],
+		"onyomi": ["シ"],
+		"meaning": {
+			"en": "tooth",
+			"ru": "зуб"
+		}
+	},
+	"461": {
+		"symbol": "卒",
+		"kunyomi": [],
+		"onyomi": ["ソツ"],
+		"meaning": {
+			"en": "graduate",
+			"ru": "выпускаться, заканчивать (вуз)"
+		}
+	},
+	"462": {
+		"symbol": "論",
+		"kunyomi": [],
+		"onyomi": ["ロン"],
+		"meaning": {
+			"en": "discuss, theory",
+			"ru": "обсуждение, теория"
+		}
+	},
+	"463": {
+		"symbol": "実",
+		"kunyomi": ["み","みの-る"],
+		"onyomi": ["ジツ"],
+		"meaning": {
+			"en": "real, fruit",
+			"ru": "настоящий, плод"
+		}
+	},
+	"464": {
+		"symbol": "調",
+		"kunyomi": ["しらべる"],
+		"onyomi": ["チョウ"],
+		"meaning": {
+			"en": "research, tone",
+			"ru": "искать, тон"
+		}
+	},
+	"465": {
+		"symbol": "必",
+		"kunyomi": ["かなら-ず"],
+		"onyomi": ["ヒツ"],
+		"meaning": {
+			"en": "necessary",
+			"ru": "необходимость"
+		}
+	},
+	"466": {
+		"symbol": "要",
+		"kunyomi": ["い-る"],
+		"onyomi": ["ヨウ"],
+		"meaning": {
+			"en": "require, summarize",
+			"ru": "требовать, суммировать"
+		}
+	},
+	"467": {
+		"symbol": "類",
+		"kunyomi": [],
+		"onyomi": ["ルイ"],
+		"meaning": {
+			"en": "kind",
+			"ru": "тип"
+		}
+	},
+	"468": {
+		"symbol": "得",
+		"kunyomi": ["え-る"],
+		"onyomi": ["トク"],
+		"meaning": {
+			"en": "gain, aquire",
+			"ru": "приобретать, получать"
+		}
+	},
+	"469": {
+		"symbol": "失",
+		"kunyomi": ["うしなう"],
+		"onyomi": ["シツ/シッ-"],
+		"meaning": {
+			"en": "lose",
+			"ru": "терять"
+		}
+	},
+	"470": {
+		"symbol": "礼",
+		"kunyomi": [],
+		"onyomi": ["レイ"],
+		"meaning": {
+			"en": "thanks, etiquette, bow",
+			"ru": "благодарность, этикет, поклон"
+		}
+	},
+	"471": {
+		"symbol": "増",
+		"kunyomi": ["ふ-える","ふ-やす","ま-す"],
+		"onyomi": ["ゾウ"],
+		"meaning": {
+			"en": "increase, add",
+			"ru": "увеличивать, добавлять"
+		}
+	},
+	"472": {
+		"symbol": "加",
+		"kunyomi": ["くわ-わる","くわ-える"],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "add",
+			"ru": "прибавлять"
+		}
+	},
+	"473": {
+		"symbol": "減",
+		"kunyomi": ["へ-る","へ-らす"],
+		"onyomi": ["ゲン"],
+		"meaning": {
+			"en": "decrease",
+			"ru": "уменьшать"
+		}
+	},
+	"474": {
+		"symbol": "変",
+		"kunyomi": ["か-わる","か-える"],
+		"onyomi": ["ヘン"],
+		"meaning": {
+			"en": "change, strange",
+			"ru": "меняться, странный"
+		}
+	},
+	"475": {
+		"symbol": "移",
+		"kunyomi": ["うつ-る","うつ-す"],
+		"onyomi": ["イ"],
+		"meaning": {
+			"en": "move",
+			"ru": "двигать"
+		}
+	},
+	"476": {
+		"symbol": "続",
+		"kunyomi": ["つづ-く","つづ-ける"],
+		"onyomi": ["ゾク"],
+		"meaning": {
+			"en": "continue",
+			"ru": "продолжать"
+		}
+	},
+	"477": {
+		"symbol": "過",
+		"kunyomi": ["す-ぎる","す-ごす"],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "pass, exceed",
+			"ru": "проходить, кончаться"
+		}
+	},
+	"478": {
+		"symbol": "進",
+		"kunyomi": ["すす-む","すす-める"],
+		"onyomi": ["シン"],
+		"meaning": {
+			"en": "advance",
+			"ru": "продвижение"
+		}
+	},
+	"479": {
+		"symbol": "以",
+		"kunyomi": [],
+		"onyomi": ["イ"],
+		"meaning": {
+			"en": "from, than",
+			"ru": "начиная с, более чем"
+		}
+	},
+	"480": {
+		"symbol": "美",
+		"kunyomi": ["うつく-しい"],
+		"onyomi": ["ビ"],
+		"meaning": {
+			"en": "beauty",
+			"ru": "красота"
+		}
+	},
+	"481": {
+		"symbol": "比",
+		"kunyomi": ["くら-べる"],
+		"onyomi": ["ヒ"],
+		"meaning": {
+			"en": "compare, ratio",
+			"ru": "сравнивать, степень"
+		}
+	},
+	"482": {
+		"symbol": "較",
+		"kunyomi": [],
+		"onyomi": ["カク"],
+		"meaning": {
+			"en": "compare",
+			"ru": "сравнивать"
+		}
+	},
+	"483": {
+		"symbol": "反",
+		"kunyomi": [],
+		"onyomi": ["ハン"],
+		"meaning": {
+			"en": "opposite, anti-",
+			"ru": "противоположный, анти-"
+		}
+	},
+	"484": {
+		"symbol": "対",
+		"kunyomi": [],
+		"onyomi": ["タイ","ツイ"],
+		"meaning": {
+			"en": "against, pair",
+			"ru": "напротив, пара"
+		}
+	},
+	"485": {
+		"symbol": "賛",
+		"kunyomi": [],
+		"onyomi": ["サン"],
+		"meaning": {
+			"en": "approve",
+			"ru": "утверждать, одобрять"
+		}
+	},
+	"486": {
+		"symbol": "共",
+		"kunyomi": ["とも"],
+		"onyomi": ["キョウ"],
+		"meaning": {
+			"en": "both, together",
+			"ru": "оба, вместе"
+		}
+	},
+	"487": {
+		"symbol": "直",
+		"kunyomi": ["なお-る","なお-す"],
+		"onyomi": ["チョク"],
+		"meaning": {
+			"en": "direct, repair, straight",
+			"ru": "прямо, исправлять, чинить, прямой"
+		}
+	},
+	"488": {
+		"symbol": "表",
+		"kunyomi": ["あらわ-す","おもて"],
+		"onyomi": ["ヒョウ"],
+		"meaning": {
+			"en": "surface, appear, table",
+			"ru": "поверхность, появляться, стол"
+		}
+	},
+	"489": {
+		"symbol": "現",
+		"kunyomi": ["あらわ-れる","(あらわ-す)"],
+		"onyomi": ["ゲン"],
+		"meaning": {
+			"en": "appear, present",
+			"ru": "появляться, присутствовать"
+		}
+	},
+	"490": {
+		"symbol": "初",
+		"kunyomi": ["はじ-め","はじ-めて","はつ"],
+		"onyomi": ["ショ"],
+		"meaning": {
+			"en": "begin, first",
+			"ru": "начало, первый"
+		}
+	},
+	"491": {
+		"symbol": "全",
+		"kunyomi": ["まった-く"],
+		"onyomi": ["ゼン"],
+		"meaning": {
+			"en": "whole, all",
+			"ru": "весь, полностью, все"
+		}
+	},
+	"492": {
+		"symbol": "最",
+		"kunyomi": ["もっと-も"],
+		"onyomi": ["サイ"],
+		"meaning": {
+			"en": "most",
+			"ru": "более всего, самый"
+		}
+	},
+	"493": {
+		"symbol": "無",
+		"kunyomi": ["な-い"],
+		"onyomi": ["ム","ブ"],
+		"meaning": {
+			"en": "nothing, non-, -less",
+			"ru": "ничего, бес-, без-"
+		}
+	},
+	"494": {
+		"symbol": "非",
+		"kunyomi": [],
+		"onyomi": ["ヒ"],
+		"meaning": {
+			"en": "non-, un-, not good",
+			"ru": "не-, нехороший"
+		}
+	},
+	"495": {
+		"symbol": "第",
+		"kunyomi": [],
+		"onyomi": ["ダイ"],
+		"meaning": {
+			"en": "rank, no.~",
+			"ru": "ранг, номер ~"
+		}
+	},
+	"496": {
+		"symbol": "的",
+		"kunyomi": [],
+		"onyomi": ["テキ"],
+		"meaning": {
+			"en": "target, (suffix to make na-adj.)",
+			"ru": "цель, (суффикс для na-прил.)"
+		}
+	},
+	"497": {
+		"symbol": "性",
+		"kunyomi": [],
+		"onyomi": ["セイ","(ショウ)"],
+		"meaning": {
+			"en": "nature, sex, (suffix to make noun)",
+			"ru": "натура, пол, (суффикс для сущ)"
+		}
+	},
+	"498": {
+		"symbol": "法",
+		"kunyomi": [],
+		"onyomi": ["ホウ/-ポウ"],
+		"meaning": {
+			"en": "law, rules, method",
+			"ru": "закон, правила, метод"
+		}
+	},
+	"499": {
+		"symbol": "制",
+		"kunyomi": [],
+		"onyomi": ["セイ"],
+		"meaning": {
+			"en": "control, system",
+			"ru": "контроль, система"
+		}
+	},
+	"500": {
+		"symbol": "課",
+		"kunyomi": [],
+		"onyomi": ["カ"],
+		"meaning": {
+			"en": "impose, assign, section",
+			"ru": "воздавать, назначать, секция"
+		}
+	}
+
+}
